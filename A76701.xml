@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The testimonies of Irenæus, Justin Martyr, Tertullian, Novatianus, Theophilus, Origen, (who lived in the two first centuries after Christ was born, or thereabouts;) as also, of Arnobius, Lactantius, Eusebius, Hilary, and Brightman; concerning that one God, and the persons of the Holy Trinity. Together with observations on the same.</title>
+            <author>Biddle, John, 1615-1662.</author>
+         </titleStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 51 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76701</idno><idno type="EEBO-CITATION">99899282</idno>
+  <idno type="VID">152840</idno>
+  <idno type="EEBO-PROQUEST">2240860204</idno>
+  
+            <idno type="STC">Wing B2877</idno>
+            <idno type="STC">ESTC R229538</idno>
+            <idno type="PROQUEST">99899282</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99899282e"/>
+            <note>(EEBO-TCP ; phase 2, no. A76701)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152840)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2326:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The testimonies of Irenæus, Justin Martyr, Tertullian, Novatianus, Theophilus, Origen, (who lived in the two first centuries after Christ was born, or thereabouts;) as also, of Arnobius, Lactantius, Eusebius, Hilary, and Brightman; concerning that one God, and the persons of the Holy Trinity. Together with observations on the same.</title>
+                  <author>Biddle, John, 1615-1662.</author>
+                  <author>Irenaeus, Saint, Bishop of Lyon.</author>
+               </titleStmt>
+               <extent>[2], 86 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Arnobius ... Brightman" enclosed in curly brackets.</note>
+                  <note>Year of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Trinity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152840:1"/>
+            <p> The TESTIMONIES OF</p>
+            <p>
+               <hi>Irenaeus, Justin Martyr, Tertullian, Novatianus, Theophilus, Origen,</hi>
+            </p>
+            <p>(Who lived in the two first Centuries after Christ was born, or thereabouts;)</p>
+            <p>AS ALSO,</p>
+            <p>Of <hi>Arnobius, Lactantius, Eusebius, Hilary,</hi> and <hi> Brightman;</hi>
+            </p>
+            <p>CONCERNING That One GOD, and the Persons of the HOLY TRINITY.</p>
+            <p>Together with Observations on the same.</p>
+            <p>Printed at <hi>London.</hi>
+            </p>
+            <pb facs="tcp:152840:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152840:2"/>
+            <div type="excerpt">
+               <head>
+                  <hi>Iren. lib.</hi> 1. <hi>adv. Haeres. cap.</hi> 2. <hi>Edit. Paris. Anno</hi> 1545. <hi>ex recensione Desiderii Erasmi Roterodami.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">E</seg>Cclesia enim per universum or<g ref="char:EOLhyphen"/>bem usque ad fines terrae se<g ref="char:EOLhyphen"/>minata, &amp; ab Apostolis &amp; a discipulis eorum accepit eam fidem, quae est in unum De<g ref="char:EOLhyphen"/>um, Patrem omnipotentem, qui fecit coelum &amp; terram, mare &amp; omnia quae in eis sunt; &amp; in unum Jesum Christum Filium Dei, incarnatum pro nostra salute; &amp; in Spiritum sanctum, qui per Prophetas praedicavit dispositiones Dei, &amp; adventum, &amp; eam quae est ex Virgine generationem, &amp; passionem▪ &amp; resurrectionem a mortuis, &amp; in carne in coelos ascensionem dilecti Jesu Chri<g ref="char:EOLhyphen"/>sti Domini nostri, &amp; de coelis in gloria Pa<g ref="char:EOLhyphen"/>tris adventum ejus, ad recapitulanda uni<g ref="char:EOLhyphen"/>versa,
+<pb n="2" facs="tcp:152840:3"/> &amp; resuscitandam omnem carnem hu<g ref="char:EOLhyphen"/>mani generis, ut Christo Jesu Domino nostro, &amp; Deo, &amp; Salvatori, &amp; Regi, secundum placitum Patris invisibilis omne genu cur<g ref="char:EOLhyphen"/>vetur, coelestrum, terrestrium &amp; inferne<g ref="char:EOLhyphen"/>rum, &amp; omnis lingua confi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eatur ei, &amp; judi<g ref="char:EOLhyphen"/>cium justum in omnibus faciat. Spiritualia quidem nequitiae, &amp; Angelos transgressos, atque apostatas factos, &amp; impios &amp; injustos, &amp; blasphemos homines in aeternum ignem mittat. Justis autem &amp; aequis &amp; Praecepta ejus servan<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ibus, &amp; in dilectione ejus perse<g ref="char:EOLhyphen"/>verantibus, quibusdam quidem ab initio, qui<g ref="char:EOLhyphen"/>busdam autem ex poenitentia, vitam dona<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> incorruptelam loco mune<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is conferat, &amp; cla<g ref="char:EOLhyphen"/>ritatem aeternam circundet.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>The Church dispersed through the whole world even to the ends of the earth, hath both from the Apostles and their dis<g ref="char:EOLhyphen"/>ciples received that faith, which is in one God the Father almighty, which made heaven and earth, the sea and all the things which are in them; and in one Je<g ref="char:EOLhyphen"/>sus Christ the Son of God, incarnated for our salvation; and in one holy Spirit who by the Prophets published the dispensati<g ref="char:EOLhyphen"/>ons
+<pb n="3" facs="tcp:152840:3"/> of God, and the coming, and that generation which is of the Virgine, and the Passion and the Resurrection from the dead and the ascension into the heavens in flesh, of the beloved Jesus Christ our Lord, and his coming from heaven in the glory of the Father to gather all things into one, and raise up all flesh of man<g ref="char:EOLhyphen"/>kinde, that to Jesus Christ our Lord, and God, and Saviour▪ and King, ac<g ref="char:EOLhyphen"/>cording to the good-pleasure of the In<g ref="char:EOLhyphen"/>visible Father▪ every knee may bow, of heavenly, earthly and infernal things, and every tongue may confess to him, and that he may do just judgement in all things. That he may send the spiritual things of wickedness, and the angels who have transgressed and become apostates, and impious, and unjust, and unrighteous, and blasphemous men, into Eternal Fire; but to the just and righteous, and to those that keep his Commandments, and persevere in his love, some from the be<g ref="char:EOLhyphen"/>ginning, others after repentance, giving life, he may by way of reward confer on them incorruptibility and encompass them with everlasting splendor.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <pb n="4" facs="tcp:152840:4"/>
+               <head>
+                  <hi>Lib.</hi> 1. <hi>advers. Haeres. cap.</hi> 19.</head>
+               <p>Cum teneamus autem nos regulam verita<g ref="char:EOLhyphen"/>tis, id. est, quia sit unus Deus omnipotens, qu omnia condidit per verbum suum, &amp; aptaevit &amp; fecit ex eo quod non erat ad hoc ut sin<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> omnia, quemadmodum Scriptura dicit. Ver<g ref="char:EOLhyphen"/>bo enim Domini coeli firmati sunt, &amp; spi<g ref="char:EOLhyphen"/>ritu oris ejus omnis virtus eorum. Et ite<g ref="char:EOLhyphen"/>rum: Omnia per ipsum facta sunt, &amp; fin<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ipso factum est nihil. Ex omnibus autem nihil subtractum est, sed omnia per ipsum fecit Pater, sive visibilia, sive invisibilia▪ sive sensibilia, sive intelligibilia, sive tem<g ref="char:EOLhyphen"/>poralia, propter quandam dispositionem; sive sempiterna: &amp; ea omnia, non per An<g ref="char:EOLhyphen"/>gelos, neque per Virtutes aliquas abscissas ab ejus sententia, nihil enim indiget omnium Deus, sed per Verbum &amp; Spiritum suum omnia faciens, &amp; disponens, &amp; gubernans, &amp; omnibus esse praestans. Hic qui mundum fecit, etenim mundus ex omnibus; hic qui hominem plasmavit; hic qui Deus Abra<g ref="char:EOLhyphen"/>ham, Deus Isaac, &amp; Deus Jacob, super quem alius Deus non est, neque initium, neque vir<g ref="char:EOLhyphen"/>tus, neque pleroma: Hic Pater Domini nostri Jesu Christi, quemadmodum osten<g ref="char:EOLhyphen"/>demus.</p>
+               <div type="translation">
+                  <pb n="5" facs="tcp:152840:4"/>
+                  <head>That is,</head>
+                  <p>Forasmuch as we hold the Rule of Truth, namely, that there is one God al<g ref="char:EOLhyphen"/>mighty, who created all things by his Word, and fitted them, and of that which was not caused all things to be, as the Scri<g ref="char:EOLhyphen"/>pture saith, <hi>By the word of the Lord were the heavens established, and all their host by the breath of his mouth.</hi> And again: <hi>All things were made by him, and without him was nothing made that was made.</hi> Now from <hi>all</hi> nothing is subtracted, but the Fa<g ref="char:EOLhyphen"/>ther made all things by him; whether vi<g ref="char:EOLhyphen"/>sible, or invisible; whether sensible, or in<g ref="char:EOLhyphen"/>telligible; whether temporal for a certain dispensation, or eternal; and all those things, not by Angels, nor by Powers sun<g ref="char:EOLhyphen"/>dered from his judgement, for God stand<g ref="char:EOLhyphen"/>eth in no need of all things, but by his Word and Spirit making, and disposing and governing all things, and giving all things a being. This very one that made the world for the world consists of all things; this very one who formed man; this very one who is the God of <hi>Abraham,</hi> the God of <hi>Isaac,</hi> and the God of <hi>Jacob,</hi> above whom there is no other God, nor beginning, nor power, nor plenitude: this very one is the
+<pb n="6" facs="tcp:152840:5"/> Father of our Lord Jesus Christ, as we will shew.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Lib.</hi> 2. <hi>cap.</hi> 49.</head>
+               <p>Siquis exquirat causam, propter quam in omnibus Pater communicans Filio, solus scire &amp; horam &amp; diem Domino manifestatus est, neque aptabilem magis, neque decentiorem, nec sine periculo alteram, quàm hanc inveniat in praesenti, quoniam cum solus verax Magi<g ref="char:EOLhyphen"/>ster est Dominus, ut discamus per ipsum▪ super omnia esse Patrem. Etenim Pater, ait, ma<g ref="char:EOLhyphen"/>jor me est, &amp; secundum agnitionem itaque praepositus esse Pater annunciatus est a Do<g ref="char:EOLhyphen"/>mino nostro, ad hoc ut &amp; nos, in quantum in figura hujus mundi sumus, perfectam sci<g ref="char:EOLhyphen"/>entiam &amp; tales quaestiones concedamus Deo: ut ne forte quaerentes altitudinem Patris in<g ref="char:EOLhyphen"/>vestigare, in tantum periculum incidamus, uti quaeramus, an super Deum alter sit Deus.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>If any one seek out the cause, why the Father communicating in all things with the Son, is alone manifested by the Lord to know the day and hour <hi>(namely, of judgement)</hi> he shall at present finde none
+<pb n="7" facs="tcp:152840:5"/> more applicable, nor more beseeming, nor without danger, then this, that since the Lord is the onely truth-speaking Master, we should by him learn, THAT THE FATHER IS ABOVE ALL THINGS. For <hi>the Father,</hi> saith he, <hi>is greater then I;</hi> wherefore in knowledge also the Father is declared by our Lord to have the pre-eminence; to the end, that we also, inasmuch as we are in the figure of this world, should yeeld perfect know<g ref="char:EOLhyphen"/>ledge, and such questions unto God; and lest haply seeking to finde out the height of the Father, we fall into so great danger, as to enquire, whether there be another God above God.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Lib.</hi> 3. <hi>cap.</hi> 3.</head>
+               <p>Sub hoc igitur Clemente, dissensione non modica inter eos qui Corinthi essent fratres facta, scripsit quae est Romae Ecclesia poten<g ref="char:EOLhyphen"/>tissimas literas Corinthiis, ad pacem eos con<g ref="char:EOLhyphen"/>gregans, &amp; reparans fidem eorum, &amp; annun<g ref="char:EOLhyphen"/>cians quam in recenti ab Apostolis recepe<g ref="char:EOLhyphen"/>rant Traditionem, annunciantem unum De<g ref="char:EOLhyphen"/>um omnipotentem, factorem coeli &amp; terrae, plasmatorem hominis, qui induxerit cataclys<g ref="char:EOLhyphen"/>mum,
+<pb n="12" facs="tcp:152840:6"/> &amp; advocaverit Abraham, qui edux<g ref="char:EOLhyphen"/>erit Populum de terra Egypti, qui collocutus sit Moysi, qui legem disposuerit, &amp; Prophetas miserit, qui ignem praeparaverit Diabolo &amp; Angelis ejus. Hunc Patrem Domini nostri Jesu Christi ab Ecclesiis annunciari, ex ipsa Scriptura qui velint, discere possint, &amp; Apo<g ref="char:EOLhyphen"/>stolicam Ecclesiae Traditionem intelligere, cum sit vetustior epistola his qui nunc falsò docent, &amp; alterum Deum super Demiurgum &amp; factorem horum omnium quae sunt com<g ref="char:EOLhyphen"/>mentiuntur.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>In the time of this Clement, a great dissention arising amongst the Brethren that were at Corinth, the Church that is at Rome wrote most powerful letters to the Corinthians, drawing them together unto peace, and repairing their faith, and de<g ref="char:EOLhyphen"/>claring the Tradition which they had newly received from the Apostles, which Tradition declares one God Almighty maker of Heaven and Earth, former of man, who brought the Floud, and called Abraham, who led the people out of the land of Egypt, who talked with Moses, who dispensed the Law, and sent the Prophets,
+<pb n="13" facs="tcp:152840:6"/> who prepared fire for the Divel and his Angels. That he is by the Church de<g ref="char:EOLhyphen"/>clared the Father of our Lord Jesus Christ, they who have a desire may learn from the writing it self, &amp; understand the Apostolick Tradition of the Church, in that the Epistle is ancienter then they who now teach falsly, and withal feign another God above the Contriver and Maker of all these things that are.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Lib.</hi> 3. <hi>cap.</hi> 6.</head>
+               <p>Neque igitur Dominus, neque Spiritus Sanctus, neque Apostoli eum qui non esset Deus, definitivè &amp; absolutè Deum nominas<g ref="char:EOLhyphen"/>sent aliquando, nisi esset verus Deus: neque Dominum appellassent aliquem ex sua perso<g ref="char:EOLhyphen"/>na, nisi qui dominatur omnium Deum Pa<g ref="char:EOLhyphen"/>trem &amp; filium ejus, qui Dominium accepit a Patre suo omnis conditionis.—Nemo igitur alius, quemadmodum praedixi, Deus nominatur, aut Dominus appellatur, nisi qui est omnium Deus &amp; Dominus, qui &amp; Moysi dixit: Ego sum, qui sum: &amp; sic dices filiis Israel: Qui est, misit me ad vos: &amp; hujus Filius Jesus Christus Dominus noster, qui filios Dei facit Credentes in nomen suum.</p>
+               <pb n="12" facs="tcp:152840:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:152840:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <div type="translation">
+                  <pb n="10" facs="tcp:152840:8"/>
+                  <head>That is,</head>
+                  <p>Wherefore neither the Lord, nor the holy Spirit, nor the Apostles would defi<g ref="char:EOLhyphen"/>nitively and absolutely at any time have named him God, who was not God, unlesse he were the true God: neither would they have called any one of his own Person Lord, but him that excrciseth Lordship over all even God the Father▪ and his Son who hath received from his Father the Lord<g ref="char:EOLhyphen"/>ship of all the Creation.—No other therefore, as I said before, is named God, or called Lord, but he that is the God and Lord of all, who also said to Moy<g ref="char:EOLhyphen"/>ses, <hi>I am that I am: and thus shalt thou say to the Children of Israel, He that Is sent me unto you:</hi> and his Son Jesus Christ.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>Ibid.</head>
+               <p>Et ego igitur invoco te Domine Deus A<g ref="char:EOLhyphen"/>brahā, &amp; Deus Isaac &amp; Deus Jacob qui est &amp; Israel Pater Domini nostri Jesu Christi, Deus qui per multitudinē misericordiae tuae &amp; bene sensisti in nobis, ut te cognoscamus, qui fe<g ref="char:EOLhyphen"/>cisti coelum &amp; terram &amp; dominaris omnium, qui es solus &amp; verus Deus, super quem alius
+<pb n="11" facs="tcp:152840:8"/> Deus non est, praeter Dominum nostrum Je<g ref="char:EOLhyphen"/>sum Christum dominatione quoque domina<g ref="char:EOLhyphen"/>ris Spiritus Sancti, da omni legenti hanc Scripturam cognoscere te, quia solus Deus es, &amp; confirmari in te, &amp; absistere ab omni haeretica, &amp; quae est sine Deo &amp; impia sen<g ref="char:EOLhyphen"/>tentia.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>And I therefore invocate thee O Lord the God of Abraham, the God of Isaac, and the God of Iacob who is also Israel, the Father of our Lord Jesus Christ▪ the God who through the multitude of thy mercy hast taken pleasure in us, that we may know thee who hast made the heaven and earth, and rulest over all who art the onely and true God, above whom there is no other God, dost in domination, besides our Lord Jesus Christ, rule also over the holy Spirit, grant to every one that rea<g ref="char:EOLhyphen"/>deth this writing to know thee, that thou art the onely God, and to be confirm<g ref="char:EOLhyphen"/>ed in thee, and to depart from every heretical and at heistical and impious Opi<g ref="char:EOLhyphen"/>nion.</p>
+               </div>
+            </div>
+            <div xml:lang="lat" type="excerpt">
+               <pb n="8" facs="tcp:152840:9"/>
+               <head>
+                  <hi>Lib.</hi> 3. <hi>cap.</hi> 9.</head>
+               <p>Ostenso igitur sic plane, &amp; adhuc ostenda<g ref="char:EOLhyphen"/>tur manifestius neminem alterum Dominum vel Deum, neque Prophetas, ne{que} Apostolos, neque Dominum Christum confessum esse ex sua persona, sed praecipue Deum &amp; Domi<g ref="char:EOLhyphen"/>num, Prophetis quidem &amp; Apostolis Patrem &amp; Filium confitentibus, alterum autem nemi<g ref="char:EOLhyphen"/>nem neque Deum nominantibus, neque Do<g ref="char:EOLhyphen"/>minum confitentibus. Et ipso Domino Pa<g ref="char:EOLhyphen"/>trem tantum Deum &amp; Dominum eum, qui solus est Deus &amp; Dominator omnium, tradente Discipulis, sequi nos oportet, siqui<g ref="char:EOLhyphen"/>dem illorum sumus Discipuli, testimonia illo<g ref="char:EOLhyphen"/>rum ita se habentia.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>It being therefore thus plainly shewn, let it also be shewn yet more manifestly, that neither the Prophets, nor the Apo<g ref="char:EOLhyphen"/>stles, nor the Lord Christ confessed any o<g ref="char:EOLhyphen"/>ther to be of his own Person Lord or God, but chiefly the Prophets and Apostles con<g ref="char:EOLhyphen"/>fessing the Father and the Son to be God and Lord, but neither naming any other, God, nor confessing him to be Lord. And
+<pb n="9" facs="tcp:152840:9"/> the Lord himself delivering to the Dis<g ref="char:EOLhyphen"/>ciples that the Father onely is that God and Lord, who is the onely God and Ruler of all, we ought to follow, if wee be their Disciples, their testimonies running in this straine.</p>
+               </div>
+               <div type="commentary">
+                  <p>
+                     <hi>This passage, as well as the last save one, before quoted, clearly intimateth that even in the judgement of</hi> Irenaeus, <hi>others besides the Father and the Son are sometimes in the the Scripture simply called GOD and LORD, but then they are not so called ac<g ref="char:EOLhyphen"/>cording to their own persons. Whereunto accordeth that of the Scripture it self,</hi> Exod. 23. 20, 21. <hi>where the LORD speaketh thus,</hi> Behold, I send an angel before thee to keep thee in the way, and to bring thee in<g ref="char:EOLhyphen"/>to the place, which I have prepared. Be<g ref="char:EOLhyphen"/>ware of him, and obey his voice, provoke him not: for he will not pardon your trans<g ref="char:EOLhyphen"/>gressions: for MY NAME IS IN HIM. <hi>From whence it is apparent, that when an Angel is at any time called GOD or LORD, as amongst other places it cometh to pass,</hi> Exod. 3. 2, 4▪ 6. Exod. 14. 19, 24, 26. Judg. 6. 12, 14, 16, 19, 20. <hi>the reason of this is not because that Angel</hi>
+                     <pb n="14" facs="tcp:152840:10"/>
+                     <hi>is</hi> a several subsistence in God, <hi>or</hi> an Ʋn<g ref="char:EOLhyphen"/>created angel, <hi>(as the Adversaries are pleased out of their one imagination to phrase it) but because</hi> the name of GOD or the LORD is in him, <hi>and he accordingly denominated not from his own Person, but from that of GOD or LORD which he sustaineth,</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Lib.</hi> 4. <hi>cap.</hi> 1.</head>
+               <p>Cum sit igitur hoc firmum &amp; constans ne<g ref="char:EOLhyphen"/>minem alterum Deum &amp; Dominum a Spiri<g ref="char:EOLhyphen"/>tu praedicatum, nisi eum qui dominatur om<g ref="char:EOLhyphen"/>nium Deus cum verbo suo, &amp; eos qui adopti<g ref="char:EOLhyphen"/>onis Spiritum accipiunt, hoc est eos qui cre<g ref="char:EOLhyphen"/>dunt in unum verum Deum, &amp; Christum Je<g ref="char:EOLhyphen"/>sum Filium Dei, similiter &amp; Apostolos nemi<g ref="char:EOLhyphen"/>nem alium a semetipsis Deum appellasse, aut Dominum cognovisse, multo autem magis Dominum, qui &amp; nobis praecepit neminem Patrem confiteri, nisi eum qui est in coelis, qui est unus Deus, &amp; unus Pater: manifeste falsa ostenduntur ea, quae dicunt circumven<g ref="char:EOLhyphen"/>tores, &amp; perversissimi Sophistae.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>
+                     <hi>For asmuch therefore as this is firm and constant that no other God and Lord was</hi>
+                     <pb n="15" facs="tcp:152840:10"/>
+                     <hi>published by the Spirit, but he that ruleth over all, even God with his Word, and they who receive the Spirit of adoption, that is, they that believe in that one and true God, and Christ Jesus the Son of God; and that the Apostles in like manner did of themselves call no other, God, or know him to be Lord; but that the Lord much more, who also injoyned us to confess no Father, but him that is in Heaven, which is that one God, and one Father: those things are shewen to be manifestly false, which deceivers, and most perverse So<g ref="char:EOLhyphen"/>phisters affirm.</hi>
+                  </p>
+               </div>
+               <div type="commentary">
+                  <p>These passages which we have cited out of this ancient Writer <hi>Irenaeus,</hi> most evident<g ref="char:EOLhyphen"/>ly shew that he firmly believed the Father only to be that one God, the God of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> the God of <hi>Isaac,</hi> and the God of <hi>Ja<g ref="char:EOLhyphen"/>cob;</hi> &amp; his son Jesus Christ (whom otherwise he supposeth to have had a being before his birth of the Virgin, but how oppositely to the very thing it self, and the tenour of the Scri<g ref="char:EOLhyphen"/>pture, I have above sufficiently argued,) to to be that one Lord who received his Domi<g ref="char:EOLhyphen"/>nion from God the Father, and the Holy Spi<g ref="char:EOLhyphen"/>rit, to be neither that one God, nor that one
+<pb n="16" facs="tcp:152840:11"/> Lord. So that had he not failed in imagin<g ref="char:EOLhyphen"/>ing two natures in Christ, he had exactly hit the Doctrine of the HOLY TRI<g ref="char:EOLhyphen"/>NITY delivered in the Scripture.</p>
+               </div>
+            </div>
+         </div>
+         <div type="text">
+            <head>
+               <hi>Justinus Martyr opera Frederici Sylburgii editus, Anno</hi> 1593.</head>
+            <div type="excerpt">
+               <head>Apolog. 2. pag. 43.</head>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>Hence also are we called Atheists, and we confess our selves to be Atheists in re<g ref="char:EOLhyphen"/>ference to such reputed Gods, (Demons,) but not to that most true God, who is the
+<pb n="17" facs="tcp:152840:11"/> Father of all righteousness and tempe<g ref="char:EOLhyphen"/>rance, and the other vertues, and unstain<g ref="char:EOLhyphen"/>ed with any evill: for him and the Son that came from him, and taught us these things, and the host of the other good An<g ref="char:EOLhyphen"/>gels who accompany and resemble him, to<g ref="char:EOLhyphen"/>gether with the Prophetick Spirit we a<g ref="char:EOLhyphen"/>dore and worship, in word and truth hono<g ref="char:EOLhyphen"/>ring them, and freely imparting, ac<g ref="char:EOLhyphen"/>cording as we have been taught, to eve<g ref="char:EOLhyphen"/>ry one that is willing to learn.</p>
+               </div>
+               <div type="commentary">
+                  <p>This passage sheweth how soon Christians began to commit Idolatry in worshipping Angels.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Ibid. pag.</hi> 46, 47.</head>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<pb n="18" facs="tcp:152840:12"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>Wherefore that we are not Atheists, whilest we worship the maker of this Ʋni<g ref="char:EOLhyphen"/>verse, saying (as we have been taught) that he needeth not bloud, drink-offrings, and incense, and according to the ut most of our power praising him with the word of pray<g ref="char:EOLhyphen"/>er and thansgiving, for all the food which we take, what sober man will not confess? And that we do with reason honour him that taught us these things and was there<g ref="char:EOLhyphen"/>fore born, (even Jesus Christ, who was cru<g ref="char:EOLhyphen"/>cified under <hi>Pontius Pilate,</hi> the Deputy of Iudea in the times of <hi>Tiberius Caesar,)</hi> ha<g ref="char:EOLhyphen"/>ving learnt that he was the Son of the true God, and <hi>accounting him in the second rank, and the Prophetick Spirit in the third order,</hi> we will demonstrate. For upon this account they charge us with madness, saying that
+<pb n="19" facs="tcp:152840:12"/> we give the second rank after the Immuta<g ref="char:EOLhyphen"/>ble and Eternal God, who produced all things to a crucified man: not knowing the mystery that lieth herein, to which we be<g ref="char:EOLhyphen"/>seech you to give attention, whilst we un<g ref="char:EOLhyphen"/>fold it.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Ibid. pag.</hi> 57.</head>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>Now after God the Father and Lord of all things, the Prime Power, and Son, is the Word. And in what manner being made flesh he became a man, we will here<g ref="char:EOLhyphen"/>after declare.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Ibid. pag.</hi> 72, 73.</head>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb n="20" facs="tcp:152840:13"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb n="21" facs="tcp:152840:13"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>But that ye may understand that <hi>Plato</hi> received from our Teachers (we mean the word by the Prophets) what he said of God, as that having altered the shapeless mat<g ref="char:EOLhyphen"/>ter, he made the world, hear the very words of <hi>Moses▪</hi> who was before declared to be the first Prophet, and older then the Greek writers: by whom the Prophetick Spirit signifying how at first, and of what materials God framed the world, spake thus: <hi>In the beginning God made the Hea<g ref="char:EOLhyphen"/>ven and the Earth. Now the Earth was in<g ref="char:EOLhyphen"/>visible and incomposed, and darkness was upon the Abyss, and the Spirit of God was carried upon the waters. And God said, Let there be Light and it was so.</hi>
+                     <pb n="22" facs="tcp:152840:14"/> Wherefore by the word of God was the whole world made of the materialls fore<g ref="char:EOLhyphen"/>signified by <hi>Moses,</hi> as <hi>Plato,</hi> and others of his opinion, and we also understand and ye may assent thereunto. And that Natural discourse touching the Son of God in <hi>Pla<g ref="char:EOLhyphen"/>to</hi>'s <hi>Timaeus,</hi> when he saith, <hi>He made him a saltier</hi> (or, <hi>Greek X) in the Universe,</hi> he likewise received from <hi>Moses,</hi> and ut<g ref="char:EOLhyphen"/>tered. For in the writings of <hi>Moses</hi> it is recorded, how that when the Israelites departed out of <hi>Egypt,</hi> and came into the Wilderness, venomous beasts met them, both Vipers, and Asps, and every sort of serpents, and so killed the peo<g ref="char:EOLhyphen"/>ple. Whereupon, by divine instinct and efficacy, <hi>Moses</hi> tooke brass, and made the form of a Cross, and set it over the Ta<g ref="char:EOLhyphen"/>bernacle, saying to the people, If ye look upon this form, and believe, ye shall be saved thereby. And when this was done he writeth that the serpents dyed, but the peo<g ref="char:EOLhyphen"/>ple escaped death. Thus did <hi>Plato</hi> deli<g ref="char:EOLhyphen"/>ver it, after he had read the story; and not accurately knowing nor conceving that it was the form of a Cross, but thinking on a saltier, he said that the Power next to the Prime God was made a saltier (or, Greek
+<pb n="23" facs="tcp:152840:14"/>
+                     <hi>X)</hi> in the Vniverse. He was also behold<g ref="char:EOLhyphen"/>ing to <hi>Moses</hi> for what he Spake of the third, for, as we spake before, he read it re<g ref="char:EOLhyphen"/>corded by <hi>Moses</hi> that the Spirit of God was carried upon the Waters. For he giveth the second rank to the word that is from God, and who, as he said, was made a saltier in the Ʋniverse; but the third rank to the Spirit, which was said to have been carri<g ref="char:EOLhyphen"/>ed on the Water, whilest he saith, <hi>The third things are about the Third.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Colloq cum Tryphone Iudaeo, pag.</hi> 207.</head>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb n="24" facs="tcp:152840:15"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>Nevertheless, O <hi>Tryphon,</hi> said I, this remaineth safe that such a one is the Christ of God, although I cannot demon<g ref="char:EOLhyphen"/>strate that he was before the Son of the maker of all things, being a God, and was born a man by the Virgin, it being every way demonstrated that he is the Christ of God, whosoever otherwise he shall be found to be. But if I shall not demon<g ref="char:EOLhyphen"/>strate that he did pre-exist, and accord<g ref="char:EOLhyphen"/>ing to the counsel of the Father endured to be born a man of like affections with
+<pb n="25" facs="tcp:152840:15"/> us, being endued with flesh, it is just and fit to say that I am mistaken in this onely, and not to deny that he is the Christ, if he appear to be a man born of men, and to have become the Christ by election. For there are some, dear friends, said I, of our kinde, who confess him to be the Christ, yet hold him to be a man, born of men. To whom I assent not; no, though very many of the same opinion with me should speak it, since we are commanded by Christ himself not to hearken to the doctrines of men, but to such things as have been promulgated by the Prophets of happie memory, and taught by him<g ref="char:EOLhyphen"/>self. And <hi>Tryphon</hi> replyed, They that say he was a man, and according to election anointed and made Christ, me<g ref="char:EOLhyphen"/>thinks speak more prabably, then you who say such things as you relate. For all we expect that the Christ shall be a man of men.</p>
+               </div>
+               <div type="commentary">
+                  <p>
+                     <hi>Observe here, Christian Reader,</hi> 1. <hi>That</hi> Iustin Martyr <hi>did not think it inconsistent</hi>
+                     <pb n="26" facs="tcp:152840:16"/>
+                     <hi>that Jesus should be the Christ, although he had no other then a Humane nature; Se<g ref="char:EOLhyphen"/>condly, that divers Christians, whom</hi> Iustin <hi>himself owned for such, for he saith that they were of the same kinde and opinion with him, did then</hi> de facto <hi>affirm that Je<g ref="char:EOLhyphen"/>sus, whom they counted the Christ had none but a Humane nature. Both which were in the succeeding Age by</hi> Athanasius, <hi>and since by other like furious Zelots, stiffly denyed, and he pronounced utterly incapable of eter<g ref="char:EOLhyphen"/>nal life, who should not believe, not onely that Christ had another Nature, besides his Humane Nature, but (what neither</hi> Iustin Martyr, <hi>nor any other of the Christians, who lived in the two first centuries, &amp; whose works are extant, ever did affirm) that that other nature was the very nature of the most high God. Thirdly, that the Jewes (who would be happy, were their opinion, con<g ref="char:EOLhyphen"/>cerning the Kingdome of Christ, as true as that which they hold concerning his Nature) did not believe that the Christ, who was to come, should be other then a man.</hi>
+                  </p>
+               </div>
+            </div>
+            <div xml:lang="grc" type="excerpt">
+               <pb n="27" facs="tcp:152840:16"/>
+               <head>
+                  <hi>Ibid. pag.</hi> 212, 213.</head>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>But now resuming the discourse, de<g ref="char:EOLhyphen"/>monstrate to us that there is another God by the Prophetick spirit confessed to be, besides the maker of all things.<hi>—Moses</hi> the happy and faithful Servant of God, intimateth that it was a God that appeared to <hi>Abraham</hi> at the Oke of Mamre together with the other two Angels sent with him to the judgement of <hi>Sodom</hi> by another that perpetually abideth in the heavenly places, and ne<g ref="char:EOLhyphen"/>ver
+<pb n="28" facs="tcp:152840:17"/> appeared or discovered with any one by himself, whom we conceive the Ma<g ref="char:EOLhyphen"/>ker and Father of all things.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Ibid. pag.</hi> 215.</head>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>And I said again, I will return to the Scriptures, and endeavour to perswade you that that God which is said and re<g ref="char:EOLhyphen"/>corded to have appeared to <hi>Abraham, Jacob,</hi> and <hi>Moses,</hi> is another then the God that made all things, in number, I say, not opinion; for I say he never did any thing, but what he that made the world, above whom there is no other God, did will that he should do and dis<g ref="char:EOLhyphen"/>course.</p>
+               </div>
+            </div>
+            <div xml:lang="grc" type="excerpt">
+               <pb n="29" facs="tcp:152840:17"/>
+               <head>
+                  <hi>Ibid. pag.</hi> 218.</head>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>And I said, It is again writen by <hi>Mo<g ref="char:EOLhyphen"/>ses,</hi> O Brethren, that he who appeared to the Patriarks, called a God, is also called an Angel, and Lord, that you may from thence know that he ministred to the Fa<g ref="char:EOLhyphen"/>ther of all things.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Pag.</hi> 220.</head>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<pb n="30" facs="tcp:152840:18"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>And <hi>Tryphon</hi> said, We do not un<g ref="char:EOLhyphen"/>derstand this from the forecited words, but that it was an Angel that appeared in the flame of fire, but God that spake to <hi>Moses.</hi> So that both an Angel and God, were together in the vision. And I re<g ref="char:EOLhyphen"/>plied, Although it so then happened, O Friends, that both an Angel and God were together in the vision presented to <hi>Moses,</hi> yet as it hath been demonstrated to you by the forewritten words, it will not be God the Maker of all things, who said to <hi>Moses</hi> that he was the God of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> the God of <hi>Isaac,</hi> and the God of
+<pb n="31" facs="tcp:152840:18"/>
+                     <hi>Jacob,</hi> but he whom we before demon<g ref="char:EOLhyphen"/>strated to have appeared unto <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> and to <hi>Jacob,</hi> MINISTRING to the will of the Maker of all things, and who in the judgment of <hi>Sodom</hi> did in like manner MINISTER to his will. So that although it were as you say, that they were twain, even an Angel and God, yet none whosoever, though of mean understanding, will dare to say, that the Maker and Father of the Universe, having left all the things that are above the heaven, did appear in a small parcel of the earth.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Ibid. pag.</hi> 221.</head>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb n="32" facs="tcp:152840:19"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (These two words seem superfluous, for they marre the sense) <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>Friends, said I, I will produce you ano<g ref="char:EOLhyphen"/>ther testimony out of the Scriptures, that God in the beginning before all the crea<g ref="char:EOLhyphen"/>tures, generated of himself a certain Ra<g ref="char:EOLhyphen"/>tional Power, which is by the Holy Spirit called also <hi>the Glory of the Lord,</hi> another while <hi>the Son,</hi> another while <hi>Wisdome,</hi> a<g ref="char:EOLhyphen"/>nother while <hi>an Angel,</hi> another while <hi>God,</hi> another while <hi>Lord</hi> and <hi>Word,</hi> another
+<pb n="33" facs="tcp:152840:19"/> while he calleth himself <hi>chief Captain,</hi> ap<g ref="char:EOLhyphen"/>pearing to Jesus the Son of <hi>Naue</hi> in the form of a man. For he may be called by all these names, both because he MI<g ref="char:EOLhyphen"/>NISTRETH to the will of the Fa<g ref="char:EOLhyphen"/>ther, and was VOLƲNTARILY begotten of the Father, as we see it come to pass even in our selves. For uttering a certain word, we beget a word, not ut<g ref="char:EOLhyphen"/>tering it by an abscission or cutting off, so that the word within us is diminish<g ref="char:EOLhyphen"/>ed. And as we see it come to pass in fire, that another is produced, without the diminution of that from whence the kindling was made, so that it remaineth in its former state, and what was kindled of it appeareth to exist, without having diminished that, of which it was kindled. My Author is the Word of Wisdome, be<g ref="char:EOLhyphen"/>ing that very God generated of the Father of the Ʋniverse, and also the Word, and Wisdome, and Power, and Glory of his be<g ref="char:EOLhyphen"/>getter, and speaketh thus by <hi>Salomon: When I shall have declared unto you daily matters, I will commemorate and reckon up the things of old. The Lord created me in the beginning, his way unto his works,</hi> &amp;c.</p>
+               </div>
+            </div>
+            <div xml:lang="grc" type="excerpt">
+               <pb n="34" facs="tcp:152840:20"/>
+               <head>
+                  <hi>Ibid. pag.</hi> 278.</head>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>Had ye understood the things spoken by the Prophets, you would not have denied him (Christ) to be a God, the son of the ONELY ƲNBEGOTTEN and ƲN<g ref="char:EOLhyphen"/>SPEAKABLE GOD.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Ibid. pag.</hi> 279.</head>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>And I repeated the things which I had formerly alledged out of the writings of <hi>Moses,</hi> and explained, whereby he who ap<g ref="char:EOLhyphen"/>peared to <hi>Abraham,</hi> &amp; to <hi>Isaac,</hi> and to <hi>Jacob,</hi>
+                     <pb n="35" facs="tcp:152840:20"/> was demonstrated to have been SƲB<g ref="char:EOLhyphen"/>ORDINATE to the Father, and the LORD, and to MINISTER un<g ref="char:EOLhyphen"/>to his will, and to have been stiled a God by the other Patriarks.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Ibid. p. eadem, &amp; p.</hi> 280.</head>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb n="36" facs="tcp:152840:21"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>When my God saith, <hi>God went up from Abraham:</hi> or, <hi>The Lord spake unto Moses:</hi> or, <hi>The Lord came down to see the Tower, which the sons of men builded:</hi> or, <hi>God shut the Ark of Noah from without:</hi> do not imagine that the very unbegotten God himself did descend or ascend from any place: for the unspeakable. Father and Lord of all things, doth neither come into any place, nor walk, nor sleep, nor rise up, but abideth in his place wheresoever it is, sharply seeing, and sharply hearing, not with eyes and eares, but with an unspeak<g ref="char:EOLhyphen"/>able faculty he doth both overlook all things, and know all things, and none of us lyeth hid from him. Neither is he moved, who cannot be contained in a place, no not
+<pb n="37" facs="tcp:152840:21"/> in the whole world, who was before the world had a being. How then should he either speak or appear to any one, or present himself in a little parcel of the earth? Nei<g ref="char:EOLhyphen"/>ther <hi>Abraham</hi> therfore, nor <hi>Isaac</hi> nor <hi>Jacob.</hi> nor any other of men saw THE FATHER AND ƲNEXPRESSIBLE LORD OF ALL THINGS SIMPLY, AND OF CHRIST HIMSELF: but Him who is by his will a God being his Son, and an Angel, in that he MINISTRETH to his purpose and pleasure▪ whom also he would have to be born a man by the Vir<g ref="char:EOLhyphen"/>gin: who also was sometimes made Fire in his conference with <hi>Moses</hi> out of the Bush. Otherwise if we do not so under<g ref="char:EOLhyphen"/>stand the Scriptures, it will happen that the Father and Lord of the Ʋniverse was not then in heaven, when it was said by <hi>Moses, The Lord rained upon Sodom fire and brimstone from the Lord out of heaven.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Ibid. pag.</hi> 281.</head>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb n="38" facs="tcp:152840:22"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>
+                     <hi>When he saith,</hi> The Lord rained down fire from the Lord out of heaven, <hi>the Pro<g ref="char:EOLhyphen"/>phetick Word intimateth twain in num<g ref="char:EOLhyphen"/>ber: the one, being on the earth, whom he affirmeth to have descended to see the cry of Sodom: the other, abiding in heaven, who is the Lord even of the Lord upon the earth▪ as being the Father and God, and author to him both of his existence, and of his being Powerful, and Lord, and God.</hi>
+                  </p>
+               </div>
+               <div type="commentary">
+                  <p>These many Testimonies have I faithfully cited out of the undoubted books of <hi>Justin Martyr,</hi> who, as he himself intimateth, wrote his second Apology an hundred and fifty years after the birth of Christ. Now though <hi>Iustin</hi> coming out of <hi>Plato</hi>'s School to the contemplation of the Gospel, and (as pre<g ref="char:EOLhyphen"/>conceived opinions are wont to stick very close, and over-rule the following doctrines which we receive) imagining <hi>Iohn</hi> the E<g ref="char:EOLhyphen"/>vangelist to be of the same opinion with <hi>Pla<g ref="char:EOLhyphen"/>to,</hi> believed there was a Son of God before
+<pb n="39" facs="tcp:152840:22"/> Jesus of <hi>Nazareth</hi> was born of the Virgin, yea before the world it self was created, yet is it evident that he neither believed him to be from all eternity, in that he saith God generated him at the beginning; nor to be co<g ref="char:EOLhyphen"/>equal with the Father, in that he saith the Son is subordinate to him, and ministreth to him, and hath him for his Lord. As for the holy Spirit, he nowhere saith that he is either God, or Lord, and expresly placeth him in the third rank after God and Christ. Neither let any man object that <hi>Iustin</hi> in his book enti<g ref="char:EOLhyphen"/>tuled, <hi>An Exposition of Faith,</hi> &amp;c. assert<g ref="char:EOLhyphen"/>eth the common doctrine of the Trinity, for that book is spurious, as appeareth both from the manner of expression, far different from that which he useth in his undoubted Works, and which sheweth it to have been composed after the Councel of <hi>Nice;</hi> and al<g ref="char:EOLhyphen"/>so because <hi>Eusebius</hi> and <hi>Jerome</hi> make no mention thereof, though both of them dili<g ref="char:EOLhyphen"/>gently reckon up the works which <hi>Justin</hi> wrote.</p>
+               </div>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="40" facs="tcp:152840:23"/>
+            <head>
+               <hi>Tertullianus Coloniae Agrippinae editus, Anno</hi> 1617. Opera Jacobi Pamelii.</head>
+            <div type="excerpt">
+               <head>
+                  <hi>De Virginib. velandis liber, cap.</hi> 1.</head>
+               <p>Regula quidem fidei una omnino est, sola immobilis &amp; irreformabilis, credendi scil. in unicum deum omnipotentem, mundi condito<g ref="char:EOLhyphen"/>rem, &amp; Filium ejus Jesum Christum, na<g ref="char:EOLhyphen"/>tum ex vigine Maria, crucifixum sub Pontio Pilato, tertia die resuscitatum a mortuis, re<g ref="char:EOLhyphen"/>ceptum in coelis, sedentem nunc ad dexteram Patris, venturum judicare vivos &amp; mortuos per carnis etiam resurrectionem.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>The rule of Faith is altogether one, alone immoveable, &amp; unalterable, namely to be<g ref="char:EOLhyphen"/>lieve in one God almighty, creator of the world, and in his Son Jesus Christ, born of the Virgin <hi>Mary,</hi> crucified under <hi>Pontius Pilate,</hi> on the third day raised from the dead, entertained in the heavens, now sit<g ref="char:EOLhyphen"/>ting at the right hand of the Father, being to come to judge the quick and the dead, e<g ref="char:EOLhyphen"/>ven by the resurrection of the flesh.</p>
+               </div>
+            </div>
+            <div xml:lang="lat" type="excerpt">
+               <pb n="41" facs="tcp:152840:23"/>
+               <head>
+                  <hi>De Praescript. adv. Haeret. cap.</hi> 13.</head>
+               <p>Regula est autem fidei, ut jam hinc quid credamus profiteamur, illa scilicet, qua credi<g ref="char:EOLhyphen"/>tur, Unum omnino deum esse, nec alium prae<g ref="char:EOLhyphen"/>ter mundi conditorem, qui universa de nihilo produxerit, per verbum suum primo omni<g ref="char:EOLhyphen"/>um emissum: Id verbum filium ejus ap<g ref="char:EOLhyphen"/>pellatum, in nomine dei varie visum Patri<g ref="char:EOLhyphen"/>archis, in Prophetis semper auditum, postre<g ref="char:EOLhyphen"/>mo delatum ex spiritu dei patris &amp; virtute in Virginem Mariam, carnem factum in utero ejus, &amp; ex ea natum hominem, &amp; esse Jesum Christum: exinde praedicasse novam legem, &amp; novam promissionem regni coelorum, vir<g ref="char:EOLhyphen"/>tutes fecisse: fixum cruci tertia dei resurrexis<g ref="char:EOLhyphen"/>se; in coelos ereptum sedere ad dexteram patris: misisse vicariam vim spiritus sancti qui credentes agat: venturum cum claritate. ad sumendos sanctos in vitae aeternae &amp; pro<g ref="char:EOLhyphen"/>missorum coelestium fructum &amp; ad profanos judicandos igni perpetuo, facta utriusque partis resuscitatione cum carnis resurrectione.</p>
+               <div type="translation">
+                  <head>That is.</head>
+                  <p>Now the rule of Faith, that we may from hence profess what we believe, is
+<pb n="42" facs="tcp:152840:24"/> this, whereby it is believed, that there is altogether but one God, nor any other be<g ref="char:EOLhyphen"/>sides the Creator of the world, who pro<g ref="char:EOLhyphen"/>duced the Ʋniverse of nothing, by his word first of all sent forth; that that word is cal<g ref="char:EOLhyphen"/>led the Son of God, variously appeared to the Patriarchs in the name of God, was in the Prophets always heard, was at last brought downe by the Spirit and vertue of God the Father into the Virgin Mary, made flesh in her womb, and of her born a man, and he is Iesus Christ: then preach<g ref="char:EOLhyphen"/>ed a New Law, and a new promise of the Kingdome of heaven, did miracles, was fastened to the Cross, rose againe the third day, being snatched up into heaven, sitteth at the right hand of the Father; sent the vicarious (or, substituted) power of the holy Spirit which acteth in belie<g ref="char:EOLhyphen"/>vers; shall come with brightness to take the Saints into the fruit of eternal life &amp; the heavenly promises, and to adjudge the pro<g ref="char:EOLhyphen"/>fane to perpetual fire, having raised both parts with the resurrection of the flesh.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Adv. Hermogenem. cap.</hi> 3.</head>
+               <p>Ex quo esse coeperunt in quae potestas do<g ref="char:EOLhyphen"/>mini
+<pb n="43" facs="tcp:152840:24"/> ageret, ex illo per accessionem potesta<g ref="char:EOLhyphen"/>tis &amp; factus &amp; dictus est dominus: quia &amp; pater deus est, &amp; judex deus est, non tamen ideo pater &amp; judex semper, quia deus sem<g ref="char:EOLhyphen"/>per. Nam nec pater potuit esse ante filium, nec judex ante delictum: fuit autem tempus cum &amp; delictum &amp; filius non fuit, quod ju<g ref="char:EOLhyphen"/>dicem &amp; qui patrem dominum faceret.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>
+                     <hi>Since things began to exist, whereon the authority of the Lord might act, sithence by an accession of authority he was both made and called Lord: for God is both a Father and also a Judge, yet not therefore alwaies a Father and a Judge, because alwaies God. Since neither could he be a Father before a Son, nor a Judge be<g ref="char:EOLhyphen"/>fore Sin: but THERE WAS A TIME WHEN BOTH SIN AND SON WERE NOT, which make the Lord a Judge and Father.</hi>
+                  </p>
+               </div>
+               <div type="commentary">
+                  <p>These passages which we have quoted out of <hi>Tertullian,</hi> evince that he also believed the Father only, not the Son, not the Holy Spirit, to be that one God. For though he, as well as the fore-cited Authors, imagined
+<pb n="44" facs="tcp:152840:25"/> Christ to have two Natures, as is every where to be seen, yet did he not suppose him to be coeternal and coequal with the Father, in that he saith <hi>God did first of all produce him,</hi> and <hi>that there was a time when the Son was not.</hi> Yea that very book of his against <hi>Praxeas,</hi> where the Adversaries think he asserteth the opinion now common<g ref="char:EOLhyphen"/>ly held concerning the Trinity, doth by the te<g ref="char:EOLhyphen"/>nour of the discourse and sundry express pas<g ref="char:EOLhyphen"/>sages sufficiently shew that he went not a<g ref="char:EOLhyphen"/>bout to prove either that the Son, to whom he frequently giveth the appellation of <hi>God,</hi> or the Holy Spirit, whom he in the close calleth <hi>tertium numen Divinitatis, &amp; ter<g ref="char:EOLhyphen"/>tium nomen Majestatis, The third power of Divinity, and third name of Majesty,</hi> did exist from all eternity, and were that one most high God. See those words,</p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>Chap.</hi> 4.</head>
+               <p>Aiunt quidem &amp; Genesim in Hebraico ita incipere, <hi>In principio Deus fecit sibi fili<g ref="char:EOLhyphen"/>um.</hi> Hoc ut firmum non sit, alia me argu<g ref="char:EOLhyphen"/>menta deducunt ab ipsa Dei dispositione, qua fuit ante mundi constitutionem, adusque filii generationem. Ante omnia enim Deus erat
+<pb n="45" facs="tcp:152840:25"/> solus, ipse sibi &amp; mundus &amp; locus &amp; omnia. Solus autem quia nihil aliud extrinsecus prae<g ref="char:EOLhyphen"/>ter illum. Caeterum ne tunc quidem solus, habebat enim secum, quam habebat in semet<g ref="char:EOLhyphen"/>ipso, rationem suam scilicet. Rationalis e<g ref="char:EOLhyphen"/>nim Deus, &amp; ratio in ipso prius &amp; ita ab ip<g ref="char:EOLhyphen"/>so omnia. Quae ratio sensus ipsius est, hanc Graeci <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> dicunt. Quo vocabulo etiam sermonem appellamus. Ideoque jam in u<g ref="char:EOLhyphen"/>su est nostrorum per simplicitatem interpreta<g ref="char:EOLhyphen"/>tionis, sermonem dicere in primordio apud Deum fuisse, cum magis rationem competat antiquiorem haberi; quia non sermonalis a principio, sed rationalis Deus etiam ante principium; &amp; quia ipse quoque sermo ra<g ref="char:EOLhyphen"/>tione consistens, priorem eam ut substantiam suam ostendat.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>They say indeed that <hi>Genesis</hi> in the Hebrew beginneth thus; <hi>In the beginning God made himself a Son.</hi> Though this be not firm, I am drawn by other Arguments from the very disposition of God, wherein he was before the constitution of the world even to the generation of the Son. For before all things God was alone, being to himself both world and place and all
+<pb n="46" facs="tcp:152840:26"/> things. But alone, because there was no<g ref="char:EOLhyphen"/>thing without besides him. Yet even then, was he not alone, for he had with him, what he had in himself, namely his reason. For God was rational, and reason was in him before: and so all things were of him. Which reason is his sense or understand<g ref="char:EOLhyphen"/>ing, and is by the Greeks called <hi>Logos.</hi> By which name we also call a <hi>word</hi> or speech. And therefore it is in frequent use with our men, through simplicity of interpre<g ref="char:EOLhyphen"/>tation, to say that the <hi>word</hi> or <hi>speech</hi> was in the beginning with God, whereas it is more suitable that <hi>Reason</hi> should be ac<g ref="char:EOLhyphen"/>counted the more ancient: because God was not <hi>Vocal</hi> from the beginning▪ but he was <hi>Rational</hi> even before the beginning: and because <hi>the word</hi> or <hi>speech</hi> it self con<g ref="char:EOLhyphen"/>sisting in <hi>Reason,</hi> sheweth it to be older as its substance.</p>
+               </div>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>See also Chap.</hi> 7.</head>
+               <p>Tunc igitur etiam ipse sermo speciem &amp; ornatum suum sumit, sonum &amp; vocem, cum dicit deus, <hi>Fiat lux.</hi> Haec est nativitas per<g ref="char:EOLhyphen"/>fecta sermonis, dum ex deo procedit: con<g ref="char:EOLhyphen"/>ditus ab eo primum ad cogitatum in nomine
+<pb n="47" facs="tcp:152840:26"/> Sophiae: <hi>Dominus condidit me initium viarum suarum.</hi> Dehinc generatus ad ef<g ref="char:EOLhyphen"/>fectum: <hi>Cum pararet coelum, aderam illi simul.</hi>
+               </p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>Then therefore <hi>the word</hi> or <hi>speech</hi> it self taketh its shape and ornament, sound and voice, when he saith, <hi>Let there be light.</hi> This is the perfit birth of <hi>the word</hi> or <hi>speech,</hi> whilest it proceedeth from God, having been first created of him by cogitation in the name of <hi>Wisdome: The Lord created me the beginning of his waies.</hi> Then effectu<g ref="char:EOLhyphen"/>ally generated: <hi>When he prepared the hea<g ref="char:EOLhyphen"/>vens, I was with him.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>See also Chap.</hi> 4.</head>
+               <p>Qui filium non aliunde deduco, sed de substantia patris, nihil facientem sine patris voluntate, omnem a patre consecutum po<g ref="char:EOLhyphen"/>testatem; quomodo possum de fide destruere monarchiam, quam a patre filio traditam, in filio servo? Hoc mihi &amp; in tertium gra<g ref="char:EOLhyphen"/>dum dictum sit, quia spiritum non aliunde puto, quam a patre per filium. Vide ergo ne tu potius monarchiam destruas, qui dispositio<g ref="char:EOLhyphen"/>nem
+<pb n="48" facs="tcp:152840:27"/> &amp; dispensationem ejus evertis in tot no<g ref="char:EOLhyphen"/>minibus constitutam, in quot deus voluit. A<g ref="char:EOLhyphen"/>deo autem manet in suo statu, licet Trinitas inferatur, ut etiam restitui habeat patri a fi<g ref="char:EOLhyphen"/>lio.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>I who derive the Son no otherwise then from the substance of the Father, doing nothing without the will of the Father, having attained all authority from the Father, how can I in truth destroy the Monarchy, which being delivered from the Father to the Son, I keep in the Son? Let this also be said by me touching the Third degree, for I thinke the Spirit to be no otherwise then from the Father by the Son. See therefore, lest thou rather de<g ref="char:EOLhyphen"/>stroyest not the Monarchy, who subvert<g ref="char:EOLhyphen"/>est the disposition and dispensation thereof constituted in as many names as God would have it. For it so remaineth in its state, although a Trinity be brought in, that it is also to be restored to the Father from the Son.</p>
+               </div>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="49" facs="tcp:152840:27"/>
+               <head>
+                  <hi>See also Chap.</hi> 8.</head>
+               <p>Tertius est spiritus a deo &amp; Filio, sicut tertius a radice fructus ex frutice. Et tertius a fonte, rivus ex flumine, &amp; tertius a sole, apex ex radio.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>The Spirit is third after God and the Son, as the fruit from the branch is third after the root. And the brook from the ri<g ref="char:EOLhyphen"/>ver is third after the fountain. And the point from the ray is third after the Sun.</p>
+               </div>
+            </div>
+            <div n="9" type="chapter">
+               <head>
+                  <hi>And Chap.</hi> 9.</head>
+               <p>Pater tota substantia est, filius vero deri<g ref="char:EOLhyphen"/>vatio totius &amp; portio, sicut ipse profitetur: <hi>Quia Pater major me est.</hi> A quo &amp; mino<g ref="char:EOLhyphen"/>ratus canitur in Psalmo, modicum quid ci<g ref="char:EOLhyphen"/>tra angelos. Sic &amp; pater alius a filio, dum filio major: dum alius qui generat, alius qui generatur: dum alius qui mittit, alius qui mittitur: dum alius qui facit, alius per quem fit.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>The Father is the whole substance, the
+<pb n="50" facs="tcp:152840:28"/> Son a derivation and portion of the whole, as he himself professeth: <hi>Because my Fa<g ref="char:EOLhyphen"/>ther is greater then I.</hi> Of whom the Psalm singeth, that he was made a little lower then angels. Thus is also the Father another then the Son, whilest greater then the Son; whilest he that generateth is another then he that is generated; whilest he that sendeth is another then he that is sent; whilest he that doth is another then he by whom it is done.</p>
+               </div>
+            </div>
+            <div n="13" type="chapter">
+               <head>
+                  <hi>See Chap.</hi> 13.</head>
+               <p>Deos omnino non dicam, nec dominos, sed Apostolum sequar, ut si pariter nominan<g ref="char:EOLhyphen"/>di fuerint Pater &amp; filius, deum patrem ap<g ref="char:EOLhyphen"/>pellem &amp; Jesum Christum dominum nomi<g ref="char:EOLhyphen"/>nem; solum autem Christum potero deum dicere, sicut idem Apostolus, <hi>Ex quibus Christus, qui est,</hi> inquit, <hi>Deus super omnia benedictus in secula.</hi>
+               </p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>I will not say Gods, nor Lords, but fol<g ref="char:EOLhyphen"/>low the Apostle, and if the Father and the Son be to be named together, call the Father God, and name Jesus Christ Lord.
+<pb n="51" facs="tcp:152840:28"/> But Christ by himself I may call by the name of God, as the same Apostle saith, <hi>Of whom came Christ, who is over all a God blessed for evermore.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="26" type="chapter">
+               <head>
+                  <hi>See also Chap.</hi> 26.</head>
+               <p>Sicut ergo Sermo Dei non est ipse cujus est, ita nec spiritus, etsi Deus dictus est, non tamen ipse est cujus est dictus. Nulla res alicujus ipsa est, cujus est. Planè cum quid ex ipso est, &amp; sic ejus est, dum ex ipso sit, potest tale quid esse, quale &amp; ipse ex quo est, &amp; cujus est. Et ideo Spiritus Deus, &amp; Sermo Deus, quia ex Deo, non tamen ipse ex quo est. Quod Deus Dei tanquam sub<g ref="char:EOLhyphen"/>stantiva res, non erit ipse Deus, sed hactenus Deus, quia ex ipsius Dei substantia, quae sub<g ref="char:EOLhyphen"/>stantiva res est, &amp; ut portio aliqua totius.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>As therefore the Word of God is not He, whose he is, so neither the Spirit although he be called God, yet is not He whose he is said to be. Nothing of any one, is that very thing whose it is. Indeed when any thing is from some one, and so his whilst it is from him, it may be such as he is from whom
+<pb n="52" facs="tcp:152840:29"/> it is, and whose it is. And therefore the Spirit may be God, and the Word God, because of God; yet not that very one of which each of them is. Because God of God, as a substantial thing, will not be very God himself, but therefore God, be<g ref="char:EOLhyphen"/>cause of the substance of God, which is al<g ref="char:EOLhyphen"/>so a substantial thing, and as a portion of the whole.</p>
+               </div>
+            </div>
+            <div n="25" type="chapter">
+               <head>
+                  <hi>See also Chap.</hi> 25.</head>
+               <p>Adscendo ad patrem meum, &amp; Patrem vestrum, deum meum, &amp; deum vestrum. Pa<g ref="char:EOLhyphen"/>ter ad Patrem, &amp; Deus ad Deum: an filius ad Patrem, Sermo ad Deum?</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>I ascend to my Father and your Father, my God and your God. <hi>The Father to the Father, and God to God: or the Son to the Father, the word to God?</hi>
+                  </p>
+               </div>
+               <div type="commentary">
+                  <p>Now forasmuch as <hi>Tertulliam</hi> suffici<g ref="char:EOLhyphen"/>ently explaineth himself, that his intention was not to assert that the Son and Holy Spi<g ref="char:EOLhyphen"/>rit were that one God, but on the contrary to refute <hi>Praxeas,</hi> who holding, as <hi>Sa<g ref="char:EOLhyphen"/>bellius</hi>
+                     <pb n="53" facs="tcp:152840:29"/> afterwards did, that Christ and the Holy Spirit were that one God as well as the Father, did thereby confound the Father, Son, and Holy Spirit, inasmuch as the distinction between the Essence and Person of God, was not yet invented; this, I say, doth warrant us to make use of his testimony against the Adversaries in the business of the Trinity, so that we need not fly to that, which some, and that justly e<g ref="char:EOLhyphen"/>nough, make use of, when they are urged with the words of <hi>Tertullian,</hi> cited out of his book against <hi>Praxeas,</hi> namely, that the high Notions which he there uttereth were learned from the New Prophet <hi>Montanus,</hi> whom he impiously calleth the Paraclete, and expresly mentioneth in the beginning of the discourse, and intimateth in the close thereof.</p>
+               </div>
+            </div>
+         </div>
+         <div type="text">
+            <head>Novatianus de Trinitate,</head>
+            <div type="excerpt">
+               <head>
+                  <hi>Cap.</hi> 1.</head>
+               <p>Regula exigit veritatis, ut primo omnium credamus in deum, Patrem &amp; dominum omnipotentem, id est, rerum omnium per<g ref="char:EOLhyphen"/>fectissimum conditorem.</p>
+               <div type="translation">
+                  <pb n="54" facs="tcp:152840:30"/>
+                  <head>That is,</head>
+                  <p>The Rule of truth requireth that first of all we believe in God, the Father and Lord Almighty, that is, the most perfit Creator of all things.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Cap.</hi> 9.</head>
+               <p>Eadem regula veritatis docet nos, credere post Patrem etiam in Filium Dei, Christum Jesum dominum deum nostrum, sed Dei Filium, hujus Dei qui &amp; unus &amp; solus est, conditor scilicet rerum omnium, ut jam &amp; superius expressum est.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>The same Rule of truth teacheth us, to believe after the Father likewise in the Son of God, Christ Jesus our Lord God, but the Son of that God which is both one and only, namely the Creator of all things.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Cap.</hi> 11.</head>
+               <p>Est periculum grande, salvatorem gene<g ref="char:EOLhyphen"/>ris humani, totius dominum &amp; Principem mundi, cui a suo Patre omnia tradita sunt, &amp;
+<pb n="55" facs="tcp:152840:30"/> cuncta concessa, per quem instituta sunt uni<g ref="char:EOLhyphen"/>versa, creata sunt tota, digesta sunt cuncta, aevorum omnium &amp; temporum regem, an<g ref="char:EOLhyphen"/>gelorum omnium principem, ante quem nihil praeter Patrem, hominem tantummodo dicere, &amp; authoritatem illi divinam in his abnegare.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>It is a great hazard to say that the Sa<g ref="char:EOLhyphen"/>viour of mankind, the Lord and Prince of the whole world, to whom all things have been delivered from his Father, and all things granted, by whom all things were instituted, all things created, all things ordered, the King of all ages and times, the Prince of all Angels, BEFORE WHOM WAS NOTHING BESIDES THE FATHER, is a man only, and in these to deny him divine Authority.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Cap.</hi> 13.</head>
+               <p>Usque adeo hunc (Christum) manifestum est in scripturis esse deum tradi, ut plaerique Haereticorum, divinitatis ipsius magnitudine &amp; veritate commoti, ultra modum extenden<g ref="char:EOLhyphen"/>tes honores ejus, ausissent non Filium, sed
+<pb n="56" facs="tcp:152840:31"/> ipsum deum Patrem promere &amp; putare.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>It is so manifest that he (Christ) is in the Scriptures delivered to be a God, that most of the Hereticks, moved with the greatness and truth of his divinity, have dared to declare and think him, not the Son, but the very God the Father.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Cap.</hi> 22.</head>
+               <p>Dum ergo sanctificationem accipit a Patre, minor Patre est.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>Whilst therefore he receiveth sanctifi<g ref="char:EOLhyphen"/>cation from the Father, he is less then the Father.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Cap.</hi> 24.</head>
+               <p>Accipit Paracletus (spiritus) a Christo quae nuntiet. Sed si a Christo accepit quae nuntiet, major ergo jam Paracleto Christus est: quoniam nec Paracletus a Christo ac<g ref="char:EOLhyphen"/>ciperet, nisi minor Christo esset.</p>
+               <div type="translation">
+                  <pb n="57" facs="tcp:152840:31"/>
+                  <head>That is,</head>
+                  <p>
+                     <hi>The Paraclete (the Spirit) receiveth of Christ what things he declareth. But if he received of Christ the things which he declareth,</hi> CHRIST IS THEN GREA<g ref="char:EOLhyphen"/>TER THEN THE PARACLETE: FOR NEITHER WOULD THE PARACLE<g ref="char:EOLhyphen"/>TE RECEIVE FROM CHRIST, UN<g ref="char:EOLhyphen"/>LESSE HE WERE LESSE THEN CHRIST.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Cap.</hi> 29.</head>
+               <p>Ordo rationis &amp; fidei authoritas, digestis vocibus ac literis domini admonet nos post haec credere etiam in spiritum sanctum, olim ecclesiae repromissum, sed statutis temporum opportunitatibus redditum.—Et quoniam dominus in coelos esset abiturus, Paracletum discipulis necessario dabat, ne illos quodam<g ref="char:EOLhyphen"/>modo pupillos (quod minime decebat) re<g ref="char:EOLhyphen"/>linqueret, &amp; sine Advocato &amp; quodam tutore desereret. Hic est enim qui ipsorum animos mentesque firmavit, qui Evangelica sacra<g ref="char:EOLhyphen"/>menta distinxit, qui in ipsis inluminator re<g ref="char:EOLhyphen"/>rum divinarum fuit, quo confirmati pro no<g ref="char:EOLhyphen"/>mine domini nec carceres nec vincula timue<g ref="char:EOLhyphen"/>runt;
+<pb n="58" facs="tcp:152840:32"/> quinimmo ipsas seculi potestates &amp; tor<g ref="char:EOLhyphen"/>menta calcaverunt, armati jam scilicet per ip<g ref="char:EOLhyphen"/>sum atque firmati, habentes in se dona quae hic idem spiritus Ecclesiae Christi sponsae quasi quaedam ornamenta distribuit, &amp; diri<g ref="char:EOLhyphen"/>git. Hic est enim qui Prophetas in Ecclesia constituit, magistros erudit, linguas dirigit, virtutes &amp; sanitates facit, opera mirabilia gerit, discretiones spirituum porrigit, guberna<g ref="char:EOLhyphen"/>tiones contribuit, consilia suggerit, quaeque alia sunt charismatum dona componit, &amp; di<g ref="char:EOLhyphen"/>rigit, &amp; ideo ecclesiam domini undique &amp; in omnibus perfectam, &amp; consummatam facit.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>The order of reason, and authority of faith, admonisheth us, having digested the words and letters of the Lord, after these things to believe also in the Holy Spirit, heretofore promised to the Church, and given at the appointed seasons of the times.—And inasmuch as the Lord was about to go away into the heavens, he ne<g ref="char:EOLhyphen"/>cessarily gave a Paraclete (Advocate) to the Disciples, lest he should leave them in a manner Orphans, (which was not be<g ref="char:EOLhyphen"/>coming▪) and without an Advocate and a Tutor. For he it was who strengthened
+<pb n="59" facs="tcp:152840:32"/> their hearts and minds, who distinguished the Sacraments (Mysteries) of the Gospel, who was in them an Illuminator of Di<g ref="char:EOLhyphen"/>vine things, with whom being confirmed, they for the name of the Lord feared nei<g ref="char:EOLhyphen"/>ther prisons nor bonds, yea trod under foot the powers and torments of the world, as being armed and strengthened by him, having in themselves the Gifts which this same Spirit distributeth and direct<g ref="char:EOLhyphen"/>eth to the Church the spouse of Christ, as certain ornaments. For this is he, which appointeth Prophets in the Church, in<g ref="char:EOLhyphen"/>structeth teachers directeth tongues doth mighty works and cures, performeth mi<g ref="char:EOLhyphen"/>racles, affordeth discernings of Spirits, contributeth governments, suggesteth counsels, and composeth and directeth all other Gifts, and therefore maketh the Church of the Lord on every side and in all things perfit and compleat.</p>
+               </div>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="60" facs="tcp:152840:33"/>
+            <head>
+               <hi>Theophilus ad Autolycum, Parisiis editus, Anno</hi> 1636.</head>
+            <div type="excerpt">
+               <head>Lib. 2. pag. 100.</head>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>The God and Father of all things is in<g ref="char:EOLhyphen"/>comprehensible, and not found in a place, for there is no place of his resting. But his <hi>Word,</hi> by whom he made all things, being his Power and Wisdome, assuming the Person of the Father and Lord of all things, came into the Garden in the Per<g ref="char:EOLhyphen"/>son of God, and discoursed with <hi>Adam.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="61" facs="tcp:152840:33"/>
+            <head>The opinion of <hi>Origen</hi> touch<g ref="char:EOLhyphen"/>ing the Son and Holy Spirit, as I finde it recorded by <hi>Epiphanius,</hi>
+            </head>
+            <div type="excerpt">
+               <head>
+                  <hi>Adv. Haeres. lib.</hi> 2. <hi>Tom.</hi> 1. <hi>Edit. Paris.</hi> 1622. <hi>pag.</hi> 531.</head>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>In many places we have found him <hi>(O<g ref="char:EOLhyphen"/>rigen)</hi> alienating the onely begotten God from the Deity and Essence of the Father; and also the Holy Spirit.</p>
+               </div>
+            </div>
+         </div>
+         <div type="text">
+            <head>The Testimony of <hi>Arnobius,</hi> who lived within the three first centuries.</head>
+            <div type="excerpt">
+               <head>
+                  <hi>Adv. Gentes lib.</hi> 2. <hi>Hanoviae edit. Anno</hi> 1603. <hi>pag.</hi> 106.</head>
+               <p>Et ideo Christus licet vobis invitis deus,
+<pb n="62" facs="tcp:152840:34"/> (deus, inquam, Christus, hoc enim saepe di<g ref="char:EOLhyphen"/>cendum est, ut infidelium dissiliat &amp; dirum<g ref="char:EOLhyphen"/>patur auditus) Dei principis jussione loquens sub hominis forma, cum mortalium sciret caecam esse naturam, neque ullam posse com<g ref="char:EOLhyphen"/>prehendere veritatem, positarum nec ante oculos rerum pro comperto habere &amp; cogni<g ref="char:EOLhyphen"/>to, quicquid sibi esse suasisset: &amp; prorsus su<g ref="char:EOLhyphen"/>spicionibus haesitare, litigiosas serere atque Intendere quaestiones: omnia ista nos linque<g ref="char:EOLhyphen"/>re &amp; posthabere praecepit: neque in res eas, quae sint a nostra procul cognitione dimotae infructuosas immittere cogitationes.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>And therefore Christ, mauger you a God, (Christ, I say, a God, for I must of<g ref="char:EOLhyphen"/>ten repeat this, that the ears of unbelie<g ref="char:EOLhyphen"/>vers may cleave asunder and burst) speak<g ref="char:EOLhyphen"/>ing by the command of THE PRINCI<g ref="char:EOLhyphen"/>PAL GOD under the form of a man, and knowing that the nature of men is blinde, nor can comprehend any truth, nor of the things exposed to the sight hath any certain and undoubted knowledge, whatsoever perswasion it may otherwise have; and that it wholly sticketh in suspi<g ref="char:EOLhyphen"/>cions, sowing and encreasing litigious
+<pb n="63" facs="tcp:152840:34"/> questions: commanded us to abandon and slight all those things, and not vainly to trouble our heads with such matters as are far distant from our knowledge.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Ib. pag.</hi> 120.</head>
+               <p>Potest ergo fieri, ut tum demum emiserit Christum Deus omnipotens, Deus solus, post<g ref="char:EOLhyphen"/>quam gens hominum fractior, &amp; infirmior coepit nostra esse natura.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>It may be that THE ALMIGHTY GOD, THE ONLY GOD then at length sent out Christ, when mankind was more broken, and our nature began to be more weak.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Lib.</hi> 3. <hi>pag.</hi> 123.</head>
+               <p>Possumus interim dicere, ad cultum di<g ref="char:EOLhyphen"/>vinitatis obeundum satis est nobis Deus pri<g ref="char:EOLhyphen"/>mus: deus (inquam) primus, pater rerum ac dominus, constitutor moderator que cuncto<g ref="char:EOLhyphen"/>rum: in hoc omne quod colendum est, coli<g ref="char:EOLhyphen"/>mus: quod adorari convenit, adoramus: quod obsequiū venerationis, exposcit venera<g ref="char:EOLhyphen"/>tion ibus promeremur. Cum enim divinitatis
+<pb n="64" facs="tcp:152840:35"/> sius teneamus caput, a quo ipsa divinitas di<g ref="char:EOLhyphen"/>vinorum▪ quaecunque sunt, ducitur superva<g ref="char:EOLhyphen"/>cuum putamus personas ire per singulas.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>We may in the mean time say▪ to dis<g ref="char:EOLhyphen"/>charge the worship of Divinity, THE PRIME GOD is sufficient for us: (I say) THE PRIME GGD, THE FATHER AND LORD OF THINGS the consti<g ref="char:EOLhyphen"/>tut or and governour of all things: in him, whatsoever is to be worshipped we worship; whatsoever to be adored, we adore; what<g ref="char:EOLhyphen"/>soever requireth veneration, we please with venerations. For since we have the very head of divinity, from whence the divinity of all divine things whatsoever, is derived, we think it superfluous to go through every person.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Lib.</hi> 1. <hi>pag.</hi> 50, 51.</head>
+               <p>Sed si deus, inquiunt, fuit Christus, cur forma est in hominis visus? &amp; cur more est interemptus humano?—Assumpsit igi<g ref="char:EOLhyphen"/>tur hominis formam, &amp; sub nostri generis similitudine potentiam suam clausit, ut &amp; videri posset, &amp; conspici: verba feceret, &amp;
+<pb n="65" facs="tcp:152840:35"/> doceret: atque omnes exequeretur res eas, propter quas in mundum venerat faciendas, summi regis imperio &amp; dispositione servatis. Quid enim dicis, rex summus ea, quae in mundo facienda esse decreverat, sine homine simulato non quibat efficere? si oporteret ita fieri (quemadomodum dicitis) ita fortasse fe<g ref="char:EOLhyphen"/>cisset: quia non oportuit, aliter fecit.—Sed more est hominis interemptus. Non ipse, neque enim cadere divinas in res potest mor<g ref="char:EOLhyphen"/>tis occasus.—Quis est ergo visus in pati<g ref="char:EOLhyphen"/>bulo pendere, quis mortuus est? homo quem induerat, &amp; secum ipse portabat. Incredi<g ref="char:EOLhyphen"/>bile dictu est, &amp; caecis obscuritatibus invo<g ref="char:EOLhyphen"/>lutum. Si velis non caecum est, &amp; simili<g ref="char:EOLhyphen"/>tudini proximè constitutum. Si quo tem<g ref="char:EOLhyphen"/>pore Sibylla praesaga, oracula illa depromens, fundebat vi (ut dicitis) Apollinis plena, ab impiis esset caesa atque interempta latronibus: nunquid Apollo diceretur in ea esse occisus? si vates Helenus, si Martius, aliique similiter vates hariolantes essent vita &amp; luce privati, nunquid aliquis diceret, lege eos humanitatis extinctos, qui illorum per ora loquentes, vias rerum postulantibus explicabant? Mors illa quam dicitis, assumpti hominis fuit, non ip<g ref="char:EOLhyphen"/>sius: gestaminus non gestantis.</p>
+               <div type="translation">
+                  <pb n="66" facs="tcp:152840:36"/>
+                  <head>That is,</head>
+                  <p>But if Christ, say they, was a God, why did he appear in the form of a man? and why was he slain after the manner of men?—He assumed the form of a man, and under the similitude of our kind hid his power, that he might be both seen and viewed; might speak words, and teach: and execute all those things, to do which he came into the world, observing the command and dispensation of THE SƲ<g ref="char:EOLhyphen"/>PREAM KING. But you will say, could not THE SƲPREAM KING effect those things, which he decreed should be done in the world without A COƲNTERFEIT MAN? Were it be<g ref="char:EOLhyphen"/>hoveful for it to have been so done as ye say, he would perhaps have so done it: because it was not behoveful, he did other<g ref="char:EOLhyphen"/>wise.—But he was slain after the man<g ref="char:EOLhyphen"/>ner of a man. Not he himself, for nei<g ref="char:EOLhyphen"/>ther can the term of death be incident to divine things.—Who then was seen to hang upon the Cross, who dyed? the man, whom he had put on, and carryed about with him. It is incredible to be spoken▪ and involved with blind obscurities. If
+<pb n="67" facs="tcp:152840:36"/> you will, it is not blind, and very neer to a like instance. If <hi>Sibylla</hi> the prophetesse, at what time she uttered those oracles, be<g ref="char:EOLhyphen"/>ing (as ye say) full of the power of <hi>Apollo,</hi> had been wounded and slain by impious cut-throats, would <hi>Apollo</hi> be said to have been slain in her? If the Prophet <hi>Helenus,</hi> if <hi>Martius,</hi> and other Prophets had as they prophesied been deprived of life and light▪ would any one say, that they were extinguished by the law of Humanity, who speaking by their mouths, explained the wayes of things to such as demanded? That death which ye speak of, was <hi>THE ASSUMED MAN'S NOT HIS; THE BURTHEN'S, NOT THE BEARER'S.</hi>
+                  </p>
+               </div>
+               <div type="commentary">
+                  <p>It appeareth by what we have quoted out of<hi> Arnobius▪ </hi>that He also believed the Fa<g ref="char:EOLhyphen"/>ther alone to be that Prime and onely God, and Supream Monarch. But it is withall worth the observing, of what ill consequence the opinion of two Natures in Christ, is. For<hi> Arnobius </hi>having (as others did before) imagined a preexistence of Christ before he was born of the Virgin, thereby to remove<hi> the scandal of the Cross, </hi>and take off the reproach commonly cast on Christians,<hi> that
+<pb n="68" facs="tcp:152840:37"/> they worshipped a Man, and him put to death in a most vile and ignominious manner, </hi>doth accordingly in plain terms say, what his opinion concerning Christ led him to,<hi> that not Christ himself dyed, but the Man whom he had assumed, and carryed about with him, </hi>thereby giving the lye to the Holy Scripture that doth so fre<g ref="char:EOLhyphen"/>quently affirm that Christ, not a counterfeit man assumed by him, dyed for our sins. But this is the less to be admired at in<hi> Arnobius, </hi>since we finde<hi> Tertullian </hi>himself to have used the like expression.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Adv. Prax. cap.</hi> 30.</head>
+               <p>
+                  <hi>Deus meus, deus meus, ut quid me de<g ref="char:EOLhyphen"/>reliquisti?</hi> Haec vox carnis &amp; animae, id est, hominis, non Sermonis, nec Spiritus, id est, non dei, propterea emissa est, ut impassi<g ref="char:EOLhyphen"/>bilem deum ostenderet, qui sic filium dere<g ref="char:EOLhyphen"/>liquit, dum hominem ejus tradidit in mor<g ref="char:EOLhyphen"/>tem.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>My God, My God, why hast thou for<g ref="char:EOLhyphen"/>saken me? <hi>This speech of flesh and soul, that is, of man, not of the</hi> Word, <hi>nor of Spirit, that is, not of God, was therefore ut<g ref="char:EOLhyphen"/>tered,</hi>
+                     <pb n="69" facs="tcp:152840:37"/>
+                     <hi>that he might shew God to be im<g ref="char:EOLhyphen"/>passible, who in this manner forsook the Son, WHILEST HE DELIVERED HIS MAN ƲNTO DEATH.</hi>
+                  </p>
+               </div>
+               <div type="commentary">
+                  <p>See whither the opinion of two Natures in Christ, leadeth men, causing them to deny that the Son of God dyed. How then is that any longer true which the Apostle saith, <hi>Rom.</hi> 5. 10. <hi>If being enemies we were re<g ref="char:EOLhyphen"/>conciled to God by the death of his Son?</hi> How that <hi>Rom.</hi> 8. 32. <hi>He who spared not his own Son, but delivered him for us all?</hi> For according to Tertullian, <hi>not the Son but his man was delivered unto death.</hi> How doth that consist which the Son himself saith, <hi>John</hi> 3. 26. <hi>So God loved the world, that he gave his onely-begotten Son, that who<g ref="char:EOLhyphen"/>soever believeth on him, should not perish, but have eternal life?</hi> For according to <hi>Arnobius,</hi> yea the greatest part of Christi<g ref="char:EOLhyphen"/>ans, (if they will be true to their principles,) <hi>not the Son of God, but an assumed Man was given.</hi> When a Person assumeth any thing, and the thing assumed dye, you can<g ref="char:EOLhyphen"/>not therefore say that the assuming Person dyeth. Otherwise when a man assumeth a garment, (I use this similitude, because
+<pb n="60" facs="tcp:152840:38"/> the Adversaries are wont by it to explain the Incarnation which they have imagined,) and the garment is rent, or taken away, the man may thereupon be said to be rent, or taken way. But the Adversaries will reply, The Scripture saith. <hi>The word was made flesh,</hi> John 1. 14. and doth not this imply an In<g ref="char:EOLhyphen"/>carnation, and consequently two Natures in Christ? Nothing less. For the text may be as well be rendered. <hi>The Word was flesh,</hi> since the Greek <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> here used, is in the 6 verse of this very chap. and <hi>Rom.</hi> 11. 6. and in sundry other places, so rendered in our English Translation. Add hereunto, that so to render the words is far more suit<g ref="char:EOLhyphen"/>able to the scope of the place. For how ab<g ref="char:EOLhyphen"/>surd would it be for <hi>John,</hi> when he had al<g ref="char:EOLhyphen"/>ready spoken of the things which the <hi>Word</hi> had done as Man, <hi>as that he was in the world, enlightned men, came to his own, and his own received him not,</hi> afterwards to tell us <hi>that he was made Flesh,</hi> that is, <hi>a Man?</hi> But if our interpretation be admit<g ref="char:EOLhyphen"/>ted, all things exactly agree; for having spoken divers excellent things of Christ under the name of <hi>the Word,</hi> and having ascribed Divinity to him, a scruple might thereupon presently arise in the mindes of the hearers,
+<pb n="61" facs="tcp:152840:38"/> what might be the nature or substance of this <hi>Word,</hi> whether he were a Spirit, or God himself; wherefore to exclude all doubting concerning this matter, he telleth them <hi>that the Word was Flesh▪</hi> that is, <hi>a mortal man,</hi> as this expression elsewhere in the Scripture denoteth. Furthermore, that the Interpre<g ref="char:EOLhyphen"/>tation of the Adversaries, together with their inference thereupon, can at no hand consist, but that they must of necessity come over to our opinion touching one nature in Christ, I thus evince. If the <hi>Word</hi> was made flesh, then he was either something when he was made flesh, or nothing. If nothing there was no Incarnation, (since that implyeth the adding of flesh to that which is already something;) and consequently but one nature in Christ. If something▪ then a Spirit, (as the Adversaries grant.) If the <hi>Word</hi> being a Spirit was made flesh he ceased to be a Spirit &amp; was changed into flesh: for when in the Scripture one sub<g ref="char:EOLhyphen"/>stance is said to be made another, it signifi<g ref="char:EOLhyphen"/>eth that one is changed into the other. Nei<g ref="char:EOLhyphen"/>ther need we go far for an instance, having a very punctual one in the second Chap. of this very Gospel of <hi>John.</hi> v. 9. <hi>When the Ruler of the feast had tasted the water that was made wine.</hi> When the water had been
+<pb n="72" facs="tcp:152840:39"/> made wine, it ceased to be water, and was turned into wine, as the Ruler of the feast did well perceive by his tast, calling the bride<g ref="char:EOLhyphen"/>groom, and telling him <hi>that he had (contra<g ref="char:EOLhyphen"/>ry to custome) reserved the good wine un<g ref="char:EOLhyphen"/>till the last,</hi> verse 10. Wherefore though it should be granted to the Adversaries that Christ had a spiritual nature before he was born of the Virgin <hi>Mary,</hi> yet forasmuch as in the place under contestation (which is the chief, if not only text alleadged by them to prove an Incarnation) it is according to their own interpretation said <hi>that the word was made flesh,</hi> this clearly importeth that he ceased to have a spiritual nature, and was changed into flesh, and so still had but one nature, namely that of flesh or humanity. Which was the thing to be proved.</p>
+               </div>
+            </div>
+         </div>
+         <div type="text">
+            <head>The testimony of <hi>Lactantius</hi> the Disciple of <hi>Arnobius.</hi>
+            </head>
+            <div type="excerpt">
+               <head>
+                  <hi>Divin. Instit. lib.</hi> 4. <hi>cap.</hi> 6.</head>
+               <p>Deus igitur machinator constitutorque rerum, sicuti in secundo libro diximus, ante<g ref="char:EOLhyphen"/>quam praeclarum hoc opus mundi adorire<g ref="char:EOLhyphen"/>tur,
+<pb n="73" facs="tcp:152840:39"/> sanctum &amp; incorruptibilem &amp; irrepre<g ref="char:EOLhyphen"/>hensibilem spiritum genuit, quem filium nun<g ref="char:EOLhyphen"/>cuparet.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>God the framer and maker of things, as we said in the second book before he set upon this famous work of the world begat a holy incorruptible and irreprovable Spi<g ref="char:EOLhyphen"/>rit, whom he called the Son.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Ib. cap.</hi> 13.</head>
+               <p>Ille (Filius) exhibuit Deo fidem: docuit enim quod deus unus sit, eúmque solum coli oportere: nec unquam se ipse deum dixit: quia non servasset fidem, si missus ut Deos tolleret, &amp; unum assereret, induceret alium praeter unum. Hoc erat non de uno deo fa<g ref="char:EOLhyphen"/>cere praeconium, nec ejus qui miserat, sed suum proprium negotium gerere, ac se ab eo, quem illustratum venerat, separare. Pro<g ref="char:EOLhyphen"/>pterea quia tam fidelis extitit, quia sibi nihil prorsus assumpsit, ut mandata mittentis im<g ref="char:EOLhyphen"/>pleret, &amp; sacerdotis perpetui dignitatem, &amp; regis fummi honorem, &amp; judicis potestatem, &amp; Dei nomen accepit.</p>
+               <div type="translation">
+                  <pb n="64" facs="tcp:152840:40"/>
+                  <head>That is,</head>
+                  <p>He (the Son) kept touch with God: for he taught that there is one God, and that he alone ought to be worshipped: neither did he ever call himself God: because he had not discharged his trust, if being sent to take away Gods and assert one, he should introduce another besides one. This was not to preach concerning one God, nor to do the business of the sender, but his own work, and to separate himself from him, whom he came to illustrate. Therefore because he was so faithful, because he as<g ref="char:EOLhyphen"/>sumed nothing at all to himself, that he might fulfill the commands of the sender, he received the dignity of a perpetual Priest, and the honour of a Soveraign King, and the power of a judge, and the name of a God.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Ib. cap.</hi> 29.</head>
+               <p>Propiore exemplo uti libet. Quum quis habet filium quem unicè diligit, qui ta<g ref="char:EOLhyphen"/>men sit in domo, &amp; in manu patris, licet ei nomen domini, potestatemque concedat, ci<g ref="char:EOLhyphen"/>vili tamen jure &amp; domus una, &amp; unus do<g ref="char:EOLhyphen"/>minus nominatur. Sic hic mundus, una dei
+<pb n="65" facs="tcp:152840:40"/> domus est: &amp; Filius ac Pater, qui unani<g ref="char:EOLhyphen"/>mes incolunt mundum, deus unus: quia &amp; unus est tanquam duo, &amp; duo tanquam unus. Neque id mirum, quum &amp; Filius sit in Patre, quia Pater diligit filium; &amp; Pater in Filio, quia voluntati Patris fideliter paret, nec unquam faciat aut fecerit, nisi quod Pater aut voluit, aut jussit.—Unus est enim solus, liber, deus summus carens ori<g ref="char:EOLhyphen"/>gine: quia ipse est origo rerum &amp; in eo simul &amp; Filius &amp; omnia continentur. Qua propter quum mens &amp; voluntas alterius in altero sit, vel potius una in utroque, meritò unus deus uterque appellatur: quia quicquid est in Pa<g ref="char:EOLhyphen"/>tre ad Filium transfluit; &amp; quicquid in Filio, a Patre descendit. Non potest igi<g ref="char:EOLhyphen"/>tur summus ille ac singularis deus nisi per Fi<g ref="char:EOLhyphen"/>lium coli: qui solum se Patrem colere putat, sicut Filium non colit, ita nec Patrem qui<g ref="char:EOLhyphen"/>dem colit. Qui autem Filium suscipit, &amp; nomen ejus gerit: is vero cum Filio simul &amp; Patrem colit, quoniām legatus, &amp; nun<g ref="char:EOLhyphen"/>cius, &amp; sacerdos summi Patris est Filius.</p>
+               <div type="translation">
+                  <head>That is.</head>
+                  <p>I will use a neerer example. When any one hath a son, whom he entirely leveth, who notwithstanding is in the house, and
+<pb n="76" facs="tcp:152840:41"/> in the power of the Father, although he grant him the name and power of Master, yet in the civil law it is called but one House, and one Master. In like manner this world is one House of God: and the Son and Father, who unanimously inha<g ref="char:EOLhyphen"/>bit the world, one God: because both one is as two, and two as one. And no mar<g ref="char:EOLhyphen"/>vel, since both the Son is in the Father, because the Father loveth the Son; and the Father in the Son, because he faithfully obeyeth the will of the Father, and never doth or did but what the Father either willed, or commanded.—For there is one onely, free, Most High God, without original: because he is the original of things, and in him both the Son and all things are contained. Wherefore since the minde and will of the one is in the other, or rather one in both, both are deservedly called one God: because whatsoever is in the Father, issueth out to the Son; and whatsoever is in the Son, descendeth from the Father. Wherefore that supream and singular God cannot be worshipped but through the Son: he that thinketh he wor<g ref="char:EOLhyphen"/>shippeth the Father onely, as he doth not worship the Son, so neither worshippeth he
+<pb n="77" facs="tcp:152840:41"/> the Father. But he that entertaineth the Son, and beareth his name, he toge<g ref="char:EOLhyphen"/>ther with the Son doth also worship the Father, because the Son is the Embassa<g ref="char:EOLhyphen"/>dor, and Messenger, and Priest of the Soveraign Father.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Lib. de Ira. cap.</hi> 2.</head>
+               <p>Primus autem gradus (per quem ad do<g ref="char:EOLhyphen"/>micilium veritatis ascenditur) est intelligere falsas religiones, &amp; abjicere impios cultus de<g ref="char:EOLhyphen"/>orum humana manu fabricatos. Secundus vero inspicere animo, quod unus sit deus sum<g ref="char:EOLhyphen"/>mus, cujus potestas ac providentia effecerit a principio mundum, &amp; gubernet in posterum. Tertius cognoscere ministrum ejus, ac nun<g ref="char:EOLhyphen"/>cium quem legavit in terram, quo docente liberati ab errore, quo implicati tenebamur, formatique ad veri dei cultum, justitiam dis<g ref="char:EOLhyphen"/>ceremus. De primo gradu eos excuti vide<g ref="char:EOLhyphen"/>mus, qui quum falsa intelligant, tamen verum non inveniunt. De secundo verò gradu eos dicimus cadere, qui consentiunt unum esse summum deum: iidem tamen a philosophis irretiti, &amp; falsis argumentationibus capti, a<g ref="char:EOLhyphen"/>liter de unica illa majestate sentiunt, quàm veritas habet, qui aut figuram negant habe<g ref="char:EOLhyphen"/>re
+<pb n="68" facs="tcp:152840:42"/> ullam Deum, aut nullo affectu commove<g ref="char:EOLhyphen"/>ri putant: quia sit omnis affectus imbecilli<g ref="char:EOLhyphen"/>tatis, quae in deo nulla est. De tertio ve<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ò ii praecipitantur, qui quum sciant Legatum dei, eundemque divini &amp; immortalis templi con<g ref="char:EOLhyphen"/>ditorem, tamen aut non accipiunt eum, aut aliter accipiunt quàm fides poscit.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>The first step (whereby we ascend up to the house of truth) is, to understand false religions, and cast away the impious forms of Divine worship framed by the hand of man. The second is, to perceive in the mind, that there is one most High God, whose power and providence made all things from the beginning, and gover<g ref="char:EOLhyphen"/>neth them sithence. The third, to know HIS MINISTER AND EMBAS<g ref="char:EOLhyphen"/>SADOR, whom he sent into the earth, by whose teaching being freed from the er<g ref="char:EOLhyphen"/>ror, wherewith we were entangled and held, and formed to the worship of the true God, we might learn righteousness. From the first step we see them slide, who when they understand the things that are false, yet finde not out the truth. From the se<g ref="char:EOLhyphen"/>cond step we say they fall, who consent
+<pb n="69" facs="tcp:152840:42"/> that there is one Most High God, yet being intangled by Philosophers, and ta<g ref="char:EOLhyphen"/>ken with false reasonings, do think other<g ref="char:EOLhyphen"/>wise of that Only Majesty, then the truth is, either denying <hi>THAT GOD HATH ANY SHAPE,</hi> or thinking <hi>THAT HE IS MOVED WITH NO AFFECTI<g ref="char:EOLhyphen"/>ON:</hi> because every affection argueth weakness, which hath no place in God. From the third they are tumbled head<g ref="char:EOLhyphen"/>long, who knowing <hi>THE EMBASSADOR OF GOD,</hi> the builder of a divine and Immortal Temple, yet either receive him not, or receive him otherwise then the Faith requireth.</p>
+               </div>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="70" facs="tcp:152840:43"/>
+            <head>The Testimony of <hi>Eusebius Pamphilus</hi> that renowned Scho<g ref="char:EOLhyphen"/>lar, who was in so high esteem with <hi>Constantine</hi> the Great, that he was deemed worthy to be Bishop of the whole world.</head>
+            <div type="excerpt">
+               <head>
+                  <hi>De Ecclesiastica Theologia</hi> lib. 3. cap. 6. Edit. Paris. Anno 1628.</head>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb n="71" facs="tcp:152840:43"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>He that is beyond all things, the God and Father our Lord Jesus Christ, being an unexpressible good, and exceeding all conceit and understanding, and all speech and imagination, and withall being the onely Governor of all things how many and of what quality soever they be, and of the the very Holy Spirit himself, yea further of the Only-begotten Son, is deservedly stiled by the Apostle <hi>the God that is over all, and through all, and in all,</hi> when he saith, <hi>One Lord, one Faith, one Baptisme, One God the Father of all, who is over all, and through all, and in all.</hi> And he only may be called <hi>that one God and Father of our Lord Jesus Christ.</hi> But the Son, <hi>that onely-begotten God who is in the bosome of the Father.</hi> And the Advocate, the Ho<g ref="char:EOLhyphen"/>ly Spirit, NEITHER GOD, NOR SON, inasmuch as he hath not received his pro<g ref="char:EOLhyphen"/>duction
+<pb n="72" facs="tcp:152840:44"/> from the Father in like manner as the Son: but is one of those things which were made by the Son, for <hi>all things were made by him and without him was no<g ref="char:EOLhyphen"/>thing made.</hi> These Mysteries of the Ca<g ref="char:EOLhyphen"/>tholick and holy Church are in this wise delivered by the Divine Oracles.</p>
+               </div>
+            </div>
+            <div type="excerpt">
+               <head>
+                  <hi>Ib. lib.</hi> 2. <hi>cap.</hi> 17.</head>
+               <p>—<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>
+                     <hi>Whereas therefore he</hi> (John) <hi>might have said;</hi> the word was God <hi>(or</hi> the God,) <hi>with the addition of the Article, if he had conceived the Father and the Son to be one and the same thing, and that the</hi>
+                     <pb n="73" facs="tcp:152840:44"/> Word <hi>was that God over all, he did not af<g ref="char:EOLhyphen"/>ter that manner express it in writing.—Well-nigh teaching us in a more evident manner, to esteem him THE PRIME GOD, who is beyond all things even the Father of the</hi> Word, <hi>with whom the</hi> Word <hi>was. Then after him not to be ig<g ref="char:EOLhyphen"/>norant, that the</hi> Word, <hi>his onely-begot<g ref="char:EOLhyphen"/>ten Son, was not that very God over all, but yet that he also was A GOD.</hi>
+                  </p>
+               </div>
+               <div type="commentary">
+                  <p>Lo here, it is the observation of <hi>Eusebius</hi> himself, that <hi>John,</hi> intending to shew that Christ was not the most High God, the same with the Father, doth in Greek call him <hi>God</hi> without an article, (which is w<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt to restrain the word to the most strict and excellent signification,) and we are therefore accordingly to render it <hi>a God,</hi> for when in Greek no article is set before an appellative, we are wont in our tongue to express it by putting the indefinite article <hi>[a]</hi> before it, whereas the Greek is destitute of such an ar<g ref="char:EOLhyphen"/>ticle. But when an article is prefixed in the Greek, it is usual with us to express it by putting our definite article <hi>[the]</hi> before it, or at least by omitting an article, and using the word as a proper name. Neither will this
+<pb n="74" facs="tcp:152840:45"/> observation seem over-nice to him, who shall consider, that the English Translators them<g ref="char:EOLhyphen"/>selves make use of it in rendring that passage, <hi>Act.</hi> 12. 22, 23, 24. <hi>And the people gave a shout, saying, It is the voice of a God</hi> (Gr. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,) <hi>and not of a man. And im<g ref="char:EOLhyphen"/>mediately the Angel of the Lord smote him, because he gave not God</hi> (Gr. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>) <hi>the glory and he was eaten of worms, and gave up the Ghost. But the word of God</hi> (Gr. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>) <hi>grew and multiplied.</hi> See also <hi>Act.</hi> 28. 6. <hi>They changed their minds, and said that he</hi> (Paul) <hi>was a God.</hi> (Gr. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.) And Heb. 8. 10. <hi>I will be to them a God,</hi> (Gr. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>) <hi>and they shall b<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> to me a people.</hi> Neither let the Adver<g ref="char:EOLhyphen"/>saries object, that Christ is called <hi>God, John</hi> 20. 28. &amp; <hi>Heb.</hi> 1. 8. with an article pre<g ref="char:EOLhyphen"/>fixed before <hi>God</hi> in the Greek. For in those places the article retaineth not its force, but changeth into an Adverb of calling, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> being put for <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, as the very English Translation sheweth. See a like instance, <hi>Mark.</hi> 15. 34. compared with <hi>Mat.</hi> 27. 46. in the Greek.</p>
+                  <p>How plainly now doth <hi>Eusebius,</hi> by the passages cited out of him, give attestation to what I hold touching the Nature of the
+<pb n="75" facs="tcp:152840:45"/> Holy Spirit, so that one would think I learn<g ref="char:EOLhyphen"/>ed it from him: whereas I knew not either of his book, or what was delivered therein, a great while after I had declared my opinion. Where now is that usual brag of the Adver<g ref="char:EOLhyphen"/>saries, that the Universal Church ever since the Apostles times hath held the opinion touching three Persons in one and the same Supream Godhead? Did not <hi>Eusebius,</hi> that Great Antiquary▪ and searcher of the Christian Libraries, and first writer of the Ecclesiastick History, know better then any man that hath lived since his time, what had been generally held amongst Christians con<g ref="char:EOLhyphen"/>cerning the HOLY TRINITY? Neither let any man go about to traduce him (as some have done) by saying, that he was an <hi>Arian;</hi> for that doth not invalidate his testi<g ref="char:EOLhyphen"/>mony concerning Antiquity. But whoso<g ref="char:EOLhyphen"/>ever shall diligently peruse either his <hi>Orati<g ref="char:EOLhyphen"/>on to Constantine,</hi> or <hi>his Evangelical Pre<g ref="char:EOLhyphen"/>paration and Demonstration,</hi> or these very books of his <hi>de Ecclesiastica Theologia,</hi> will find him to be no Arian, but an Homou<g ref="char:EOLhyphen"/>sian. For whereas <hi>Arius</hi> held that God be<g ref="char:EOLhyphen"/>fore he began to make the world created of nothing a certain Spirit, called his Son, which was afterward incarnated; for which rea<g ref="char:EOLhyphen"/>son
+<pb n="76" facs="tcp:152840:46"/> he and his followers were called <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, or <hi>Non-entiani: Eusebius</hi> on the contrary affirmed, that God, before he made the world, did in an ineffable manner generate out of his own substance a Son, who afterwards assumed a humane nature. If the Adversaries reply, that nevertheless in the se<g ref="char:EOLhyphen"/>cond Person of the HOLY TRINITY <hi>Eu<g ref="char:EOLhyphen"/>sebius</hi> pronounceth sentence against me and my opinion. I answer, that he thwarteth as well what they hold, as what I, in that he expresly denyeth the Son to he THE PRIME GOD. So that is this also, which is the main matter, I have <hi>Eusebius</hi> on my side; And not only him, but also the Fa<g ref="char:EOLhyphen"/>thers who lived in the first two centuries, or thereabouts. Neither could I ever meet with a passage in the undoubted book of them who wrote in those times, which did assert the Son or the Spirit to be that one most high God. <hi>Hilary,</hi> who lived in the time of <hi>Constan<g ref="char:EOLhyphen"/>tius</hi> son of <hi>Constantine</hi> the Great, doth in his second book <hi>de Trinitate,</hi> explain those words of <hi>Matthew,</hi> Chap. 28. 19. <hi>In the name of the Father, and of the Son, and of the Holy Spirit,</hi> by saying, <hi>In the name of God, and of the Only-begotten, and of the Gift.</hi> And having all along no<g ref="char:EOLhyphen"/>where
+<pb n="77" facs="tcp:152840:46"/> said that the Holy Spirit is God, or to be worshipped, concludeth the twelfth book <hi>de Trinitate,</hi> in this manner.</p>
+               </div>
+            </div>
+            <div xml:lang="lat" type="excerpt">
+               <p>Conservo, oro, hanc fidei meae incontami<g ref="char:EOLhyphen"/>natam religionem, &amp; usque ad excessum spi<g ref="char:EOLhyphen"/>ritus mei dona mihi hanc conscientiae meae vocem, ut quod in regenerationis meae sym<g ref="char:EOLhyphen"/>bolo, baptizatus in Patre, &amp; Filio, &amp; Spiritu sancto, professus sum, semper obtineam: Patrem scilicet te nostrum, Filium tuum unà tecum adorem: &amp; sanctum spititum tuum, qui ex te per unigenitum tuum est, prome<g ref="char:EOLhyphen"/>rear.</p>
+               <div type="translation">
+                  <head>That is,</head>
+                  <p>
+                     <hi>Keep, I beseech, this undefiled religion of my faith, and to the departure of my spirit give me this voice of my conscience, that what in the symbol of my regenerati<g ref="char:EOLhyphen"/>on, being baptized in the Father, and the Son, and the Holy Spirit, I have pro<g ref="char:EOLhyphen"/>fessed, I may always obtain: namely that I may adore thee our Father; thy Son to<g ref="char:EOLhyphen"/>gether with thee; and win thy Holy Spirit, which is from thee by thy only<g ref="char:EOLhyphen"/>begotten.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="commentary">
+               <p>I would have cited the testimony of <hi>Igna<g ref="char:EOLhyphen"/>tius,</hi>
+                  <pb n="79" facs="tcp:152840:47"/> for he concurreth in the same opinion with the foregoing Authors, namely that the Father onely is that one God; yet inasmuch as the common copies are interpolated, and that which is held the purest and was taken out of the <hi>Florentine</hi> Library, hath some thing in it, which argueth the Epistles to be supposititious, I have omitted him.</p>
+               <p>I will shut up all with a testimony taken out of <hi>Brightman,</hi> which, though contrary to the opinion which he held touching the Son and the Holy Spirit, as both his prece<g ref="char:EOLhyphen"/>dent and subsequent words shew, yet the te<g ref="char:EOLhyphen"/>nor of the Revelation, as he intimateth, did extort from him. See his comment on the <hi>Revelation,</hi> Chap. 1. 4. where he speaketh thus. <hi>Wherefore we must know, that throughout this book, mention is made both here and elsewhere, both in general of God, as the highest and chiefest Go<g ref="char:EOLhyphen"/>vernour, for which cause he hath a throne given him, as also of the Son and Holy Ghost as MINISTRING unto him as by whose more neerly-joyned help all things are made and done. Wherefore they are said to stand before the throne, as it were in a readiness, and as though they did wait for the beck and bidding of their</hi>
+                  <pb n="78" facs="tcp:152840:47"/>
+                  <hi>highest Governor.</hi> Thus far he. Now doth not this observation of <hi>Brightman</hi>'s quite subvert his own, and consequently the common opinion, concerning the Trinity? Would <hi>John</hi> in the Revelation bring-in the Son and Holy Spirit Ministring to another, were they the most High God? Were not this the very way to make every one that readeth the book, to have a false perswasion concerning them? For if they think of them as they are described by <hi>John,</hi> (and how they should otherwise rightly think of them, then as they described by the sacred Writers, I cannot apprehend,) they will conceive them to be Ministers of God, and not God himself. And indeed this book of the Re<g ref="char:EOLhyphen"/>velation doth give an exact and clear testi<g ref="char:EOLhyphen"/>mony to my opinion touching the HOLY TRINITY. For Worship, Praise, Judge<g ref="char:EOLhyphen"/>ment, Dominion, and Salvation are throughout the whole book nowhere ascrib<g ref="char:EOLhyphen"/>ed to the Holy Spirit, but only to God and Christ; and when they are ascribed to Christ, he is no otherwise considered then as a man, for he is either called <hi>the Lamb,</hi> or said to have shed his blood, or to be <hi>the Christ of God.</hi> See Chap. 1. 5, 6. <hi>To him that hath loved us, and washed us</hi>
+                  <pb n="80" facs="tcp:152840:48"/>
+                  <hi>from our sins in his own blood, And hath made us Kings and Priests unto God and his Father;</hi> (Gr. <hi>unto his God and Fa<g ref="char:EOLhyphen"/>ther,) to him be glory and dominion for ever and ever.</hi> Chap. 5. 8, 9. &amp;c. <hi>And when he (the Lamb) had taken the book, the four living-creatures,</hi> (so the Greek hath it,) <hi>and four and twenty Elders fell down before the Lamb, having every one of them, harps, and golden vials full of incense, which is the prayers of the Saints. And they sing a new song saying, Thou art worthy to take the book, and to open the seals thereof, for thou wast slain, and hast bought us</hi> (so the Greek hath it) <hi>to God with thy blood, out of every kind<g ref="char:EOLhyphen"/>red, and tongue, and people, and ration: And hast made us unto our God, Kings, and Priests, and we shall raign on</hi> (or, <hi>over) the earth. And I beheld, and I heard the voice of many Angels round about the throne, and the living-creatures, and the Elders, and the number of them was ten thousand times ten thousand, and thou<g ref="char:EOLhyphen"/>sands of thousands, saying with a loud voice Worthy is the Lamb that was slain, to receive power, and riches, and wisdom, and strength, and honour, and glory, and</hi>
+                  <pb n="81" facs="tcp:152840:48"/>
+                  <hi>blessing. And every creature which is in the heaven, and on earth, and under the earth, and such as are in the sea, and all things that are in them, heard I, say<g ref="char:EOLhyphen"/>ing, Blessing, honor, glory, and power be unto him that sitteth upon the throne, and unto the Lamb for ever and ever.</hi> Were Christ the most High God, <hi>Coeternal, Co-essential, Coequal</hi> with the Father, how cometh it to pass, that the Elders, yea the Angels themselves derive his worthiness to receive Honor, Glory, and Dominion, not from that sublime consideration but from one far inferior, namely from his being <hi>a Lamb slain,</hi> which expression agreeth to him only as a Man? And were the Holy Spirit the most High God, yea or so much as to be worshipped, how cometh it to pass, that in this famous doxology, set down for a pat<g ref="char:EOLhyphen"/>tern to all succeeding ages, there is no Ho<g ref="char:EOLhyphen"/>nor and Glory ascribed to the Holy Spirit, but only to <hi>Him</hi> (not, <hi>Them)</hi> that sitteth upon the throne, and to the Lamb. Surely the Doctrine of three Persons in God was not known in the time of the Apostle <hi>John.</hi>
+               </p>
+               <p>Chap. 6. 16. <hi>And said to the moun<g ref="char:EOLhyphen"/>tains and rocks, Fall on us, and hide us from the face</hi> (not <hi>faces,</hi> as some perverted
+<pb n="83" facs="tcp:152840:49"/> by the Doctrine of three Persons in God, have pictured him with three faces) <hi>of him that sitteth on the throne, and from the wrath of the Lamb.</hi>
+               </p>
+               <p>Chap. 7. 8, 8. <hi>After this I beheld, and lo, a great multitude which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands; And they cryed with a loud voice, saying, Salvation to our God which sit<g ref="char:EOLhyphen"/>teth upon the throne, and to the Lamb.</hi>
+               </p>
+               <p>Chap. 11. 15. <hi>The kingdoms of this world are become the kingdomes of our Lord, and of his Christ.</hi>
+               </p>
+               <p>Chap. 12. 10. <hi>Now is come Salvati<g ref="char:EOLhyphen"/>on, and Strength, and the Kingdom of our God, and the Power of his Christ.</hi>
+               </p>
+               <p>Chap. 14. 4. <hi>These we bought from among men, being the first-fruits to God, and to the Lamb.</hi> Why not the first-fruits to the Spirit also, if the common opinion be right? Yea the Saints are so far from being <hi>the first-fruits to the Spirit,</hi> that they themselves <hi>have the first-fruits of the Spi<g ref="char:EOLhyphen"/>rit,</hi> as <hi>Paul</hi> testifieth, <hi>Rom.</hi> 8. 23.</p>
+               <pb n="82" facs="tcp:152840:49"/>
+               <p> Chap. 20. 6. <hi>They shall be Priests of God and of Christ, and shall reign with him a thousand yeers.</hi>
+               </p>
+               <p>Chap. 21. 22. <hi>And I saw no temple therein: for the Lord God Almighty, and the Lamb are the temple of it.</hi>
+               </p>
+               <p>Chap. 22. 1. <hi>And he shewed me a pure river of water of life, clear as crystall, proceeding out of the throne of God, and of the Lamb.</hi> Why not out of the throne of the Holy Spirit, if he be God, or the Au<g ref="char:EOLhyphen"/>thor of eternal Life? But it is well that some of the very Adversaries have long since ob<g ref="char:EOLhyphen"/>served that the Holy Spirit is never through<g ref="char:EOLhyphen"/>out the whole Scripture said to sit, which is the posture of Soveraignty.</p>
+               <p>Those humane Testimonies above-written have I alleged, not that I much regard them, as to my self, (who make use of no other <hi>Rule</hi> to determine controversies about Reli<g ref="char:EOLhyphen"/>gion, then <hi>the Scripture;</hi> and of no other <hi>Authentick Interpreter,</hi> if a scruple arise concerning the sense of the Scripture, then <hi>Reason:)</hi> but for the sake of the Ad<g ref="char:EOLhyphen"/>versaries, who continually crake <hi>the Fathers, the Fathers.</hi> And though such of them as dissent from the Church of Rome, lay aside this Plea, when they have to do with Papists
+<pb n="84" facs="tcp:152840:50"/> about sundry points in controversie, yet do they take it up again, in a manner waving the Scripture, when they argue with me, and others of the same judgement with me. For it is apparent, by what hath been produced, that the Fathers of the two first centuries, or thereabouts, when the judgements of Christi<g ref="char:EOLhyphen"/>ans were yet free, and not enslaved with the determinations of Councels, asserted the Fa<g ref="char:EOLhyphen"/>ther only to be that one God, and so were in the main right as to the Faith concerning the HOLY TRINITY, however they went awry in imagining two Natures in Christ; which came to pass (as we before hinted) partly because they were great Admirers of <hi>Plato,</hi> and accordingly (as <hi>Justus Lipsius</hi> somewhere saith) <hi>did in outward profession so put-on Christ, as that in heart they did not put-off Plato,</hi> wittily applying his high Notions touching the Creation of the World, to what was simply and plainly spoken of the man Christ Jesus in relation to the Gospel, by the Apostle <hi>John:</hi> partly that they might thereby avoid the scandal of worshipping <hi>a crucified Man,</hi> a thing then very odious amongst Jews and Pagans, and now amongst deluded Christians, who, un<g ref="char:EOLhyphen"/>less there were another Nature in Christ,
+<pb n="85" facs="tcp:152840:50"/> which was not crucified, account it idolatry, unsufferable Idolatry to worship him, there<g ref="char:EOLhyphen"/>by thwarting the most signal words of the Apostle <hi>Paul,</hi> who saith, <hi>that Jesus Christ became obedient unto death, even the death of the Cross. Wherefore God also hath highly exalted him, and given him a name above every name: that at the name of Jesus every knee should bow,</hi> Phil. 2. 8, 9, 10. How apparent is it from these words, that according to the judge<g ref="char:EOLhyphen"/>ment of <hi>Paul,</hi> Christ must therefore have <hi>the knee bowed to him,</hi> and so be worship<g ref="char:EOLhyphen"/>ped, because <hi>he is highly exalted by God;</hi> and that he was highly exalted by God, be<g ref="char:EOLhyphen"/>cause <hi>he was obedient unto death, even the death of the Cross,</hi> both which agree to him onely as <hi>a Man;</hi> and consequently Christ as <hi>a Crucified,</hi> but afterwards <hi>high<g ref="char:EOLhyphen"/>ly exalted Man</hi> is to be worshipped? Wherefore let us not be ashamed <hi>of the Son of man,</hi> lest when he cometh to render a re<g ref="char:EOLhyphen"/>ward to every one according to his doings, he be ashamed of us: but let us rather, with the beloved Disciple, <hi>Rev.</hi> 1. 5, 6. continually cry, <hi>Ʋnto him that loved us, and washed us from our sins in his own blood, and hath made us Kings and Priests unto his God</hi>
+                  <pb n="86" facs="tcp:152840:51"/>
+                  <hi>and Father;</hi> (and not, <hi>to him that is Co<g ref="char:EOLhyphen"/>essential with God the Father,</hi> as the Councel of Nice, which was beholding to the Platonists for this notion, will have it,) <hi>to him be glory and dominion for ever and ever. Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152840:51"/>
+         </div>
+      </body>
+   </text>
+</TEI>
